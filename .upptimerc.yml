@@ -3,6 +3,10 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
+  - name: Slovenská inšpekcia životného prostredia
+    url: https://www.sizp.sk
+  - name: Lamač
+    url: https://www.lamac.sk/
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
