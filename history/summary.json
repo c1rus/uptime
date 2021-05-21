@@ -4,53 +4,59 @@
     "url": "https://www.sizp.sk",
     "icon": "https://favicons.githubusercontent.com/www.sizp.sk",
     "slug": "slovenska-inspekcia-zivotneho-prostredia",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 980,
-    "timeDay": 980,
+    "timeDay": 890,
     "timeWeek": 980,
     "timeMonth": 980,
     "timeYear": 980,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-21": 1
+    }
   },
   {
     "name": "Lamač",
     "url": "https://www.lamac.sk/",
     "icon": "https://favicons.githubusercontent.com/www.lamac.sk",
     "slug": "lamac",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1202,
-    "timeDay": 1202,
+    "timeDay": 1161,
     "timeWeek": 1202,
     "timeMonth": 1202,
     "timeYear": 1202,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-21": 1
+    }
   },
   {
     "name": "Rosler",
     "url": "https://www.rosler.sk/",
     "icon": "https://favicons.githubusercontent.com/www.rosler.sk",
     "slug": "rosler",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1411,
-    "timeDay": 1411,
+    "timeDay": 1460,
     "timeWeek": 1411,
     "timeMonth": 1411,
     "timeYear": 1411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-21": 0
+    }
   }
 ]
