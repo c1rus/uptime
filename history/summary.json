@@ -203,18 +203,18 @@
     "icon": "https://favicons.githubusercontent.com/www.ecoli.sk",
     "slug": "www-ecoli-sk",
     "status": "down",
-    "uptime": "4.69%",
-    "uptimeDay": "4.69%",
-    "uptimeWeek": "4.69%",
-    "uptimeMonth": "4.69%",
-    "uptimeYear": "4.69%",
+    "uptime": "3.44%",
+    "uptimeDay": "3.44%",
+    "uptimeWeek": "3.44%",
+    "uptimeMonth": "3.44%",
+    "uptimeYear": "3.44%",
     "time": 1981,
     "timeDay": 1981,
     "timeWeek": 1981,
     "timeMonth": 1981,
     "timeYear": 1981,
     "dailyMinutesDown": {
-      "2021-05-24": 1
+      "2021-05-24": 2
     }
   },
   {
