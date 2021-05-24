@@ -3,14 +3,8 @@ owner: c1rus # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
 sites:
-  - name: Slovenská inšpekcia životného prostredia
-    url: https://www.sizp.sk
-  - name: Lamač
-    url: https://www.lamac.sk/
-  - name: Rosler
-    url: https://www.rosler.sk/
-  - name: Zuri
-    url: https://www.zuriarchitecture.com/
+  - url: https://www.rosler.sk/
+  - url: https://www.zuriarchitecture.com/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
