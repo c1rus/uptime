@@ -64,19 +64,19 @@
     "url": "https://www.zuriarchitecture.com/",
     "icon": "https://favicons.githubusercontent.com/www.zuriarchitecture.com",
     "slug": "zuri",
-    "status": "down",
-    "uptime": "94.27%",
-    "uptimeDay": "94.27%",
-    "uptimeWeek": "94.27%",
-    "uptimeMonth": "94.27%",
-    "uptimeYear": "94.27%",
-    "time": 788,
-    "timeDay": 788,
-    "timeWeek": 788,
-    "timeMonth": 788,
-    "timeYear": 788,
+    "status": "up",
+    "uptime": "92.89%",
+    "uptimeDay": "92.89%",
+    "uptimeWeek": "92.89%",
+    "uptimeMonth": "92.89%",
+    "uptimeYear": "92.89%",
+    "time": 2180,
+    "timeDay": 2180,
+    "timeWeek": 2180,
+    "timeMonth": 2180,
+    "timeYear": 2180,
     "dailyMinutesDown": {
-      "2021-05-24": 24
+      "2021-05-24": 30
     }
   }
 ]
