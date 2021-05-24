@@ -25,8 +25,6 @@ sites:
     url: https://www.ssc.sk/sk/Aktualne.ssc
   - name: www.hollen.sk
     url: http://www.hollen.sk/sk/Home.html
-  - name: www.ecoli.sk
-    url: http://www.ecoli.sk/sk/Ecoli.alej
   - name: www.iuventa.sk
     url: https://www.iuventa.sk/sk/IUVENTA-home.alej
   - name: www.soi.sk
