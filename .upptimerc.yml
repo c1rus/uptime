@@ -3,8 +3,118 @@ owner: c1rus # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
 sites:
-  - url: https://www.rosler.sk/
-  - url: https://www.zuriarchitecture.com/
+  - name: cms.alejtech.eu
+    url: http://cms.alejtech.eu/UserSystem/login/login.alej
+  - name: cms2.alejtech.eu
+    url: http://cms2.alejtech.eu/UserSystem/login/login.alej
+  - name: cms3.alejtech.eu
+    url: http://cms3.alejtech.eu/UserSystem/login/login.alej
+  - name: cms4.alejtech.eu
+    url: http://cms4.alejtech.eu/UserSystem/login/login.alej
+  - name: cms5.alejtech.eu
+    url: http://cms5.alejtech.eu/UserSystem/login/login.alej
+  - name: intra.hollen.sk
+    url: https://intra.hollen.sk/UserSystem/login/login.alej
+  - name: hint.hollen.sk
+    url: https://hint.hollen.sk/
+  - name: b2b.hollen.sk
+    url: http://b2b.hollen.sk/sk/Home.alej
+  - name: www.dubravka.sk
+    url: https://www.dubravka.sk/
+  - name: www.ssc.sk
+    url: https://www.ssc.sk/sk/Aktualne.ssc
+  - name: www.hollen.sk
+    url: http://www.hollen.sk/sk/Home.html
+  - name: www.ecoli.sk
+    url: http://www.ecoli.sk/sk/Ecoli.alej
+  - name: www.iuventa.sk
+    url: https://www.iuventa.sk/sk/IUVENTA-home.alej
+  - name: www.soi.sk
+    url: https://www.soi.sk/sk/Novinky-SOI.soi
+  - name: www.datakabinet.sk
+    url: https://www.datakabinet.sk/sk/Home.html
+  - name: www.ozpsav.sk
+    url: https://www.ozpsav.sk/sk/Odborovy-zvaz.alej
+  - name: www.zisk.eu
+    url: https://www.zisk.eu/sk/Home.alej
+  - name: www.priklady.eu
+    url: https://www.priklady.eu/sk/Index.alej           
+  - name: www.sizp.sk
+    url: https://www.sizp.sk/
+  - name: master.kabernet.sk
+    url: https://master.kabernet.sk/
+  - name: www.sedackybeta.sk
+    url: https://www.sedackybeta.sk/
+  - name: www.tinytoe.sk
+    url: https://www.tinytoe.sk/
+  - name: www.1cornhill.com
+    url: https://www.1cornhill.com/
+  - name: www.sps-sro.sk
+    url: https://www.sps-sro.sk/sk/Vitajte-na-SPS.html
+  - name: www.leopoldov.sk
+    url: https://www.leopoldov.sk/
+  - name: www.saledon.sk
+    url: https://www.saledon.sk/sk/swiss-army.html
+  - name: tamagochi.cms4.alejtech.eu
+    url: http://tamagochi.cms4.alejtech.eu/
+  - name: alejtech.sitocrm.eu
+    url: https://alejtech.sitocrm.eu/UserSystem/login/login.alej
+  - name: www.kabernet.sk
+    url: https://www.kabernet.sk
+  - name: www.idl.sk
+    url: https://www.idl.sk
+  - name: www.omnia.sk
+    url: https://www.omnia.sk
+  - name: www.slovakiatech.sk
+    url: https://www.slovakiatech.sk
+  - name: www.sokratovinstitut.sk
+    url: https://www.sokratovinstitut.sk
+  - name: www.koucovaciaskola.sk
+    url: https://www.koucovaciaskola.sk
+  - name: www.horecaclub.sk
+    url: https://www.horecaclub.sk
+  - name: www.rackscale.sk
+    url: https://www.rackscale.sk
+  - name: www.natureland.sk
+    url: https://www.natureland.sk
+  - name: www.virtualsan.sk
+    url: https://www.virtualsan.sk
+  - name: www.optikafontana.sk
+    url: https://www.optikafontana.sk
+  - name: www.levare.sk
+    url: https://www.levare.sk
+  - name: www.bellavista.sk
+    url: https://www.bellavista.sk
+  - name: www.lepsilamac.sk
+    url: https://www.lepsilamac.sk/co-robime
+  - name: www.clc.sk
+    url: https://www.clc.sk
+  - name: www.pefc.sk
+    url: https://www.pefc.sk
+  - name: www.toonet.sk
+    url: https://www.toonet.sk
+  - name: www.garancnyfond.sk
+    url: https://www.garancnyfond.sk
+  - name: www.amplia.sk
+    url: https://www.amplia.sk
+  - name: www.itvkurze.sk
+    url: https://www.itvkurze.sk
+  - name: www.lamac.sk
+    url: https://www.lamac.sk
+  - name: www.livinn.sk
+    url: https://www.livinn.sk
+  - name: www.widex-eshop.sk
+    url: https://www.widex-eshop.sk/
+  - name: www.starsforstars.eu
+    url: https://www.starsforstars.eu/
+  - name: www.mecomsutaz.sk
+    url: https://www.mecomsutaz.sk/
+  - name: www.baoffice.sk
+    url: https://www.baoffice.sk/
+  - name: www.rosler.sk
+    url: https://www.rosler.sk/
+  - name: www.zuriarchitecture.com
+    url: https://www.zuriarchitecture.com/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
