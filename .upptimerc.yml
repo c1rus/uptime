@@ -9,6 +9,8 @@ sites:
     url: https://www.lamac.sk/
   - name: Rosler
     url: https://www.rosler.sk/
+  - name: Zuri
+    url: https://www.zuriarchitecture.com/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
