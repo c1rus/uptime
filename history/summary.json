@@ -674,10 +674,10 @@
     "url": "https://www.optikafontana.sk",
     "icon": "https://favicons.githubusercontent.com/www.optikafontana.sk",
     "slug": "www-optikafontana-sk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2517,
@@ -685,7 +685,9 @@
     "timeWeek": 2535,
     "timeMonth": 2517,
     "timeYear": 2517,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-21": 1
+    }
   },
   {
     "name": "www.levare.sk",
