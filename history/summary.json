@@ -220,10 +220,10 @@
     "url": "https://www.soi.sk/sk/Novinky-SOI.soi",
     "icon": "https://favicons.githubusercontent.com/www.soi.sk",
     "slug": "www-soi-sk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 839,
@@ -231,7 +231,9 @@
     "timeWeek": 766,
     "timeMonth": 814,
     "timeYear": 839,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-02": 1
+    }
   },
   {
     "name": "www.datakabinet.sk",
