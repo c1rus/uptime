@@ -203,18 +203,18 @@
     "icon": "https://favicons.githubusercontent.com/www.iuventa.sk",
     "slug": "www-iuventa-sk",
     "status": "down",
-    "uptime": "98.20%",
+    "uptime": "97.67%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.40%",
-    "uptimeMonth": "96.18%",
-    "uptimeYear": "98.20%",
+    "uptimeWeek": "78.41%",
+    "uptimeMonth": "95.03%",
+    "uptimeYear": "97.67%",
     "time": 1490,
     "timeDay": 4263,
     "timeWeek": 2052,
     "timeMonth": 1342,
     "timeYear": 1490,
     "dailyMinutesDown": {
-      "2021-07-28": 26,
+      "2021-07-28": 529,
       "2021-07-27": 1440,
       "2021-07-26": 207
     }
@@ -848,18 +848,20 @@
     "url": "https://www.itvkurze.sk",
     "icon": "https://favicons.githubusercontent.com/www.itvkurze.sk",
     "slug": "www-itvkurze-sk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 788,
-    "timeDay": 935,
-    "timeWeek": 859,
-    "timeMonth": 771,
-    "timeYear": 788,
-    "dailyMinutesDown": {}
+    "time": 783,
+    "timeDay": 681,
+    "timeWeek": 805,
+    "timeMonth": 759,
+    "timeYear": 783,
+    "dailyMinutesDown": {
+      "2021-07-28": 0
+    }
   },
   {
     "name": "www.lamac.sk",
