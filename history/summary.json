@@ -4,18 +4,20 @@
     "url": "http://cms.alejtech.eu/UserSystem/login/login.alej",
     "icon": "https://favicons.githubusercontent.com/cms.alejtech.eu",
     "slug": "cms-alejtech-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 789,
     "timeDay": 516,
     "timeWeek": 742,
     "timeMonth": 728,
     "timeYear": 789,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-12": 3
+    }
   },
   {
     "name": "cms2.alejtech.eu",
@@ -94,18 +96,20 @@
     "url": "https://intra.hollen.sk/UserSystem/login/login.alej",
     "icon": "https://favicons.githubusercontent.com/intra.hollen.sk",
     "slug": "intra-hollen-sk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1553,
     "timeDay": 1182,
     "timeWeek": 1732,
     "timeMonth": 1625,
     "timeYear": 1553,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-12": 2
+    }
   },
   {
     "name": "hint.hollen.sk",
@@ -130,10 +134,10 @@
     "url": "http://b2b.hollen.sk/sk/Home.alej",
     "icon": "https://favicons.githubusercontent.com/b2b.hollen.sk",
     "slug": "b2b-hollen-sk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 463,
@@ -141,7 +145,9 @@
     "timeWeek": 465,
     "timeMonth": 460,
     "timeYear": 463,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-12": 2
+    }
   },
   {
     "name": "www.dubravka.sk",
@@ -203,18 +209,18 @@
     "icon": "https://favicons.githubusercontent.com/www.iuventa.sk",
     "slug": "www-iuventa-sk",
     "status": "down",
-    "uptime": "79.65%",
+    "uptime": "79.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "46.87%",
-    "uptimeYear": "79.65%",
+    "uptimeMonth": "46.67%",
+    "uptimeYear": "79.59%",
     "time": 1870,
     "timeDay": 3049,
     "timeWeek": 3230,
     "timeMonth": 2533,
     "timeYear": 1870,
     "dailyMinutesDown": {
-      "2021-08-12": 26,
+      "2021-08-12": 112,
       "2021-08-11": 1440,
       "2021-08-10": 1440,
       "2021-08-09": 1440,
@@ -313,10 +319,10 @@
     "url": "https://www.priklady.eu/sk/Index.alej",
     "icon": "https://favicons.githubusercontent.com/www.priklady.eu",
     "slug": "www-priklady-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1645,
@@ -324,7 +330,9 @@
     "timeWeek": 1720,
     "timeMonth": 1700,
     "timeYear": 1645,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-12": 1
+    }
   },
   {
     "name": "www.sizp.sk",
@@ -498,10 +506,10 @@
     "url": "https://alejtech.sitocrm.eu/UserSystem/login/login.alej",
     "icon": "https://favicons.githubusercontent.com/alejtech.sitocrm.eu",
     "slug": "alejtech-sitocrm-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 953,
@@ -509,7 +517,9 @@
     "timeWeek": 1003,
     "timeMonth": 969,
     "timeYear": 953,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-12": 1
+    }
   },
   {
     "name": "www.kabernet.sk",
