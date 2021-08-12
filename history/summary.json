@@ -96,19 +96,19 @@
     "url": "https://intra.hollen.sk/UserSystem/login/login.alej",
     "icon": "https://favicons.githubusercontent.com/intra.hollen.sk",
     "slug": "intra-hollen-sk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "94.55%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "94.20%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.93%",
-    "time": 1596,
-    "timeDay": 3220,
-    "timeWeek": 2172,
-    "timeMonth": 1738,
-    "timeYear": 1596,
+    "time": 1598,
+    "timeDay": 2731,
+    "timeWeek": 2126,
+    "timeMonth": 1739,
+    "timeYear": 1598,
     "dailyMinutesDown": {
-      "2021-08-12": 78
+      "2021-08-12": 83
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "https://hint.hollen.sk/",
     "icon": "https://favicons.githubusercontent.com/hint.hollen.sk",
     "slug": "hint-hollen-sk",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
     "time": 134,
-    "timeDay": 105,
-    "timeWeek": 140,
-    "timeMonth": 138,
+    "timeDay": 104,
+    "timeWeek": 136,
+    "timeMonth": 137,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2021-08-12": 28
+      "2021-08-12": 33
     }
   },
   {
@@ -214,7 +214,7 @@
     "uptime": "79.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "45.76%",
+    "uptimeMonth": "45.74%",
     "uptimeYear": "79.31%",
     "time": 1870,
     "timeDay": 3049,
@@ -222,7 +222,7 @@
     "timeMonth": 2533,
     "timeYear": 1870,
     "dailyMinutesDown": {
-      "2021-08-12": 515,
+      "2021-08-12": 521,
       "2021-08-11": 1440,
       "2021-08-10": 1440,
       "2021-08-09": 1440,
@@ -341,19 +341,19 @@
     "url": "https://www.sizp.sk/",
     "icon": "https://favicons.githubusercontent.com/www.sizp.sk",
     "slug": "www-sizp-sk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.86%",
-    "time": 1195,
-    "timeDay": 1127,
-    "timeWeek": 1234,
-    "timeMonth": 1223,
-    "timeYear": 1195,
+    "time": 1199,
+    "timeDay": 1339,
+    "timeWeek": 1273,
+    "timeMonth": 1233,
+    "timeYear": 1199,
     "dailyMinutesDown": {
-      "2021-08-12": 27,
+      "2021-08-12": 32,
       "2021-08-02": 63,
       "2021-06-15": 68
     }
@@ -896,19 +896,17 @@
     "icon": "https://favicons.githubusercontent.com/www.amplia.sk",
     "slug": "www-amplia-sk",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 766,
     "timeDay": 768,
     "timeWeek": 810,
     "timeMonth": 789,
     "timeYear": 766,
-    "dailyMinutesDown": {
-      "2021-08-12": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.itvkurze.sk",
@@ -916,19 +914,17 @@
     "icon": "https://favicons.githubusercontent.com/www.itvkurze.sk",
     "slug": "www-itvkurze-sk",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 803,
     "timeDay": 809,
     "timeWeek": 859,
     "timeMonth": 832,
     "timeYear": 803,
-    "dailyMinutesDown": {
-      "2021-08-12": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.lamac.sk",
@@ -936,19 +932,17 @@
     "icon": "https://favicons.githubusercontent.com/www.lamac.sk",
     "slug": "www-lamac-sk",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1578,
     "timeDay": 2993,
     "timeWeek": 2017,
     "timeMonth": 1674,
     "timeYear": 1578,
-    "dailyMinutesDown": {
-      "2021-08-12": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.livinn.sk",
@@ -956,19 +950,17 @@
     "icon": "https://favicons.githubusercontent.com/www.livinn.sk",
     "slug": "www-livinn-sk",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1182,
     "timeDay": 8492,
     "timeWeek": 2938,
     "timeMonth": 1508,
     "timeYear": 1182,
-    "dailyMinutesDown": {
-      "2021-08-12": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.widex-eshop.sk",
@@ -976,19 +968,17 @@
     "icon": "https://favicons.githubusercontent.com/www.widex-eshop.sk",
     "slug": "www-widex-eshop-sk",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1305,
     "timeDay": 6175,
     "timeWeek": 2492,
     "timeMonth": 1510,
     "timeYear": 1305,
-    "dailyMinutesDown": {
-      "2021-08-12": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.starsforstars.eu",
@@ -996,19 +986,17 @@
     "icon": "https://favicons.githubusercontent.com/www.starsforstars.eu",
     "slug": "www-starsforstars-eu",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1112,
     "timeDay": 10421,
     "timeWeek": 3329,
     "timeMonth": 1499,
     "timeYear": 1112,
-    "dailyMinutesDown": {
-      "2021-08-12": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.mecomsutaz.sk",
@@ -1016,19 +1004,17 @@
     "icon": "https://favicons.githubusercontent.com/www.mecomsutaz.sk",
     "slug": "www-mecomsutaz-sk",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1551,
     "timeDay": 11434,
     "timeWeek": 3908,
     "timeMonth": 1961,
     "timeYear": 1551,
-    "dailyMinutesDown": {
-      "2021-08-12": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.baoffice.sk",
@@ -1036,18 +1022,17 @@
     "icon": "https://favicons.githubusercontent.com/www.baoffice.sk",
     "slug": "www-baoffice-sk",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.93%",
     "time": 929,
     "timeDay": 956,
     "timeWeek": 1022,
     "timeMonth": 958,
     "timeYear": 929,
     "dailyMinutesDown": {
-      "2021-08-12": 12,
       "2021-06-06": 75
     }
   },
@@ -1057,19 +1042,17 @@
     "icon": "https://favicons.githubusercontent.com/www.rosler.sk",
     "slug": "www-rosler-sk",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1659,
     "timeDay": 1530,
     "timeWeek": 1684,
     "timeMonth": 1705,
     "timeYear": 1659,
-    "dailyMinutesDown": {
-      "2021-08-12": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.zuriarchitecture.com",
@@ -1077,18 +1060,16 @@
     "icon": "https://favicons.githubusercontent.com/www.zuriarchitecture.com",
     "slug": "www-zuriarchitecture-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 731,
     "timeDay": 822,
     "timeWeek": 794,
     "timeMonth": 746,
     "timeYear": 731,
-    "dailyMinutesDown": {
-      "2021-08-12": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
