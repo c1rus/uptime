@@ -1,7 +1,7 @@
 url: https://www.omnia.sk
-status: up
-code: 200
-responseTime: 622
-lastUpdated: 2021-09-06T23:11:07.497Z
+status: down
+code: 503
+responseTime: 620
+lastUpdated: 2021-09-07T09:37:41.277Z
 startTime: Mon May 24 2021 14:06:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
