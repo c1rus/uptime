@@ -211,18 +211,18 @@
     "icon": "https://favicons.githubusercontent.com/www.iuventa.sk",
     "slug": "www-iuventa-sk",
     "status": "down",
-    "uptime": "56.78%",
+    "uptime": "56.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.78%",
+    "uptimeYear": "56.60%",
     "time": 2289,
     "timeDay": 3089,
     "timeWeek": 3536,
     "timeMonth": 3338,
     "timeYear": 2289,
     "dailyMinutesDown": {
-      "2021-09-13": 29,
+      "2021-09-13": 536,
       "2021-09-12": 1440,
       "2021-09-11": 1440,
       "2021-09-10": 1440,
@@ -279,10 +279,10 @@
     "url": "https://www.soi.sk/sk/Novinky-SOI.soi",
     "icon": "https://favicons.githubusercontent.com/www.soi.sk",
     "slug": "www-soi-sk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1022,
@@ -290,7 +290,9 @@
     "timeWeek": 911,
     "timeMonth": 901,
     "timeYear": 1022,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-13": 1
+    }
   },
   {
     "name": "www.datakabinet.sk",
