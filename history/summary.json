@@ -222,7 +222,7 @@
     "timeMonth": 3327,
     "timeYear": 2315,
     "dailyMinutesDown": {
-      "2021-09-16": 468,
+      "2021-09-16": 481,
       "2021-09-15": 1440,
       "2021-09-14": 1440,
       "2021-09-13": 1440,
@@ -341,11 +341,11 @@
     "url": "https://www.zisk.eu/sk/Home.alej",
     "icon": "https://favicons.githubusercontent.com/www.zisk.eu",
     "slug": "www-zisk-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1446,
     "timeDay": 1461,
@@ -353,7 +353,7 @@
     "timeMonth": 1482,
     "timeYear": 1446,
     "dailyMinutesDown": {
-      "2021-09-16": 7
+      "2021-09-16": 3
     }
   },
   {
@@ -442,10 +442,10 @@
     "url": "https://www.tinytoe.sk/",
     "icon": "https://favicons.githubusercontent.com/www.tinytoe.sk",
     "slug": "www-tinytoe-sk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1067,
@@ -453,7 +453,9 @@
     "timeWeek": 1166,
     "timeMonth": 1076,
     "timeYear": 1067,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-16": 1
+    }
   },
   {
     "name": "www.1cornhill.com",
