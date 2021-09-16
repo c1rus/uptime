@@ -222,7 +222,7 @@
     "timeMonth": 3327,
     "timeYear": 2315,
     "dailyMinutesDown": {
-      "2021-09-16": 462,
+      "2021-09-16": 468,
       "2021-09-15": 1440,
       "2021-09-14": 1440,
       "2021-09-13": 1440,
@@ -321,19 +321,19 @@
     "url": "https://www.ozpsav.sk/sk/Odborovy-zvaz.alej",
     "icon": "https://favicons.githubusercontent.com/www.ozpsav.sk",
     "slug": "www-ozpsav-sk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1142,
-    "timeDay": 1152,
-    "timeWeek": 1036,
-    "timeMonth": 1119,
-    "timeYear": 1142,
+    "time": 1141,
+    "timeDay": 1110,
+    "timeWeek": 1035,
+    "timeMonth": 1116,
+    "timeYear": 1141,
     "dailyMinutesDown": {
-      "2021-09-16": 11
+      "2021-09-16": 17
     }
   },
   {
@@ -341,19 +341,19 @@
     "url": "https://www.zisk.eu/sk/Home.alej",
     "icon": "https://favicons.githubusercontent.com/www.zisk.eu",
     "slug": "www-zisk-eu",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1447,
-    "timeDay": 1664,
-    "timeWeek": 1465,
-    "timeMonth": 1489,
-    "timeYear": 1447,
+    "time": 1446,
+    "timeDay": 1461,
+    "timeWeek": 1439,
+    "timeMonth": 1482,
+    "timeYear": 1446,
     "dailyMinutesDown": {
-      "2021-09-16": 1
+      "2021-09-16": 7
     }
   },
   {
@@ -443,19 +443,17 @@
     "icon": "https://favicons.githubusercontent.com/www.tinytoe.sk",
     "slug": "www-tinytoe-sk",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1067,
     "timeDay": 1526,
     "timeWeek": 1166,
     "timeMonth": 1076,
     "timeYear": 1067,
-    "dailyMinutesDown": {
-      "2021-09-16": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.1cornhill.com",
@@ -501,19 +499,17 @@
     "icon": "https://favicons.githubusercontent.com/www.leopoldov.sk",
     "slug": "www-leopoldov-sk",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 932,
     "timeDay": 1408,
     "timeWeek": 1053,
     "timeMonth": 971,
     "timeYear": 932,
-    "dailyMinutesDown": {
-      "2021-09-16": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.saledon.sk",
