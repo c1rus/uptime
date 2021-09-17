@@ -25,19 +25,17 @@
     "icon": "https://favicons.githubusercontent.com/cms2.alejtech.eu",
     "slug": "cms2-alejtech-eu",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 746,
     "timeDay": 693,
     "timeWeek": 739,
     "timeMonth": 710,
     "timeYear": 746,
-    "dailyMinutesDown": {
-      "2021-09-16": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "cms3.alejtech.eu",
@@ -81,19 +79,17 @@
     "icon": "https://favicons.githubusercontent.com/cms5.alejtech.eu",
     "slug": "cms5-alejtech-eu",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 728,
     "timeDay": 481,
     "timeWeek": 563,
     "timeMonth": 679,
     "timeYear": 728,
-    "dailyMinutesDown": {
-      "2021-09-16": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "intra.hollen.sk",
@@ -179,19 +175,17 @@
     "icon": "https://favicons.githubusercontent.com/www.ssc.sk",
     "slug": "www-ssc-sk",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1177,
     "timeDay": 1011,
     "timeWeek": 996,
     "timeMonth": 1074,
     "timeYear": 1177,
-    "dailyMinutesDown": {
-      "2021-09-16": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.hollen.sk",
@@ -199,19 +193,17 @@
     "icon": "https://favicons.githubusercontent.com/www.hollen.sk",
     "slug": "www-hollen-sk",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1039,
     "timeDay": 846,
     "timeWeek": 982,
     "timeMonth": 1133,
     "timeYear": 1039,
-    "dailyMinutesDown": {
-      "2021-09-16": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.iuventa.sk",
@@ -219,18 +211,19 @@
     "icon": "https://favicons.githubusercontent.com/www.iuventa.sk",
     "slug": "www-iuventa-sk",
     "status": "down",
-    "uptime": "54.82%",
+    "uptime": "54.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.82%",
+    "uptimeYear": "54.81%",
     "time": 2326,
     "timeDay": 3567,
     "timeWeek": 3376,
     "timeMonth": 3347,
     "timeYear": 2326,
     "dailyMinutesDown": {
-      "2021-09-16": 1439,
+      "2021-09-17": 30,
+      "2021-09-16": 1440,
       "2021-09-15": 1440,
       "2021-09-14": 1440,
       "2021-09-13": 1440,
@@ -291,19 +284,17 @@
     "icon": "https://favicons.githubusercontent.com/www.soi.sk",
     "slug": "www-soi-sk",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1006,
     "timeDay": 796,
     "timeWeek": 796,
     "timeMonth": 875,
     "timeYear": 1006,
-    "dailyMinutesDown": {
-      "2021-09-16": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.datakabinet.sk",
@@ -332,18 +323,18 @@
     "icon": "https://favicons.githubusercontent.com/www.ozpsav.sk",
     "slug": "www-ozpsav-sk",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 1138,
     "timeDay": 1021,
     "timeWeek": 1016,
     "timeMonth": 1111,
     "timeYear": 1138,
     "dailyMinutesDown": {
-      "2021-09-16": 26
+      "2021-09-16": 17
     }
   },
   {
@@ -352,18 +343,18 @@
     "icon": "https://favicons.githubusercontent.com/www.zisk.eu",
     "slug": "www-zisk-eu",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 1533,
     "timeDay": 2995,
     "timeWeek": 2283,
     "timeMonth": 1764,
     "timeYear": 1533,
     "dailyMinutesDown": {
-      "2021-09-16": 26
+      "2021-09-16": 17
     }
   },
   {
@@ -454,9 +445,9 @@
     "slug": "www-tinytoe-sk",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1058,
     "timeDay": 1076,
@@ -464,7 +455,7 @@
     "timeMonth": 1062,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2021-09-16": 24
+      "2021-09-16": 15
     }
   },
   {
@@ -511,19 +502,17 @@
     "icon": "https://favicons.githubusercontent.com/www.leopoldov.sk",
     "slug": "www-leopoldov-sk",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 929,
     "timeDay": 1066,
     "timeWeek": 974,
     "timeMonth": 969,
     "timeYear": 929,
-    "dailyMinutesDown": {
-      "2021-09-16": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.saledon.sk",
