@@ -262,7 +262,7 @@
     "timeMonth": 3591,
     "timeYear": 2448,
     "dailyMinutesDown": {
-      "2021-09-29": 1164,
+      "2021-09-29": 1190,
       "2021-09-28": 1440,
       "2021-09-27": 1440,
       "2021-09-26": 1440,
@@ -363,10 +363,10 @@
     "url": "https://www.datakabinet.sk/sk/Home.html",
     "icon": "https://favicons.githubusercontent.com/www.datakabinet.sk",
     "slug": "www-datakabinet-sk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "87.31%",
-    "uptimeWeek": "98.19%",
+    "uptimeDay": "87.26%",
+    "uptimeWeek": "98.18%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.88%",
     "time": 1430,
@@ -375,7 +375,7 @@
     "timeMonth": 1350,
     "timeYear": 1430,
     "dailyMinutesDown": {
-      "2021-09-29": 183,
+      "2021-09-29": 184,
       "2021-08-26": 19,
       "2021-06-27": 17
     }
@@ -1193,18 +1193,18 @@
     "icon": "https://favicons.githubusercontent.com/www.zuriarchitecture.com",
     "slug": "www-zuriarchitecture-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 736,
     "timeDay": 861,
     "timeWeek": 682,
     "timeMonth": 758,
     "timeYear": 736,
     "dailyMinutesDown": {
-      "2021-09-29": 1
+      "2021-09-29": 27
     }
   }
 ]
