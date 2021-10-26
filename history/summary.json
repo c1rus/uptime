@@ -68,19 +68,19 @@
     "url": "http://cms3.alejtech.eu/UserSystem/login/login.alej",
     "icon": "https://favicons.githubusercontent.com/cms3.alejtech.eu",
     "slug": "cms3-alejtech-eu",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 572,
-    "timeDay": 470,
-    "timeWeek": 552,
-    "timeMonth": 590,
-    "timeYear": 572,
+    "time": 574,
+    "timeDay": 723,
+    "timeWeek": 605,
+    "timeMonth": 603,
+    "timeYear": 574,
     "dailyMinutesDown": {
-      "2021-10-26": 3
+      "2021-10-26": 7
     }
   },
   {
@@ -334,7 +334,7 @@
     "timeMonth": 3356,
     "timeYear": 2596,
     "dailyMinutesDown": {
-      "2021-10-26": 1363,
+      "2021-10-26": 1369,
       "2021-10-25": 1440,
       "2021-10-24": 1440,
       "2021-10-23": 1440,
@@ -1239,9 +1239,9 @@
     "slug": "www-garancnyfond-sk",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.58%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 885,
     "timeDay": 762,
@@ -1249,7 +1249,7 @@
     "timeMonth": 774,
     "timeYear": 885,
     "dailyMinutesDown": {
-      "2021-10-26": 35,
+      "2021-10-26": 20,
       "2021-09-24": 20,
       "2021-08-22": 23
     }
@@ -1261,9 +1261,9 @@
     "slug": "www-amplia-sk",
     "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "81.63%",
-    "uptimeMonth": "94.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "81.84%",
+    "uptimeMonth": "94.24%",
     "uptimeYear": "98.87%",
     "time": 773,
     "timeDay": 697,
@@ -1271,7 +1271,6 @@
     "timeMonth": 799,
     "timeYear": 773,
     "dailyMinutesDown": {
-      "2021-10-26": 14,
       "2021-10-21": 321,
       "2021-10-20": 1440,
       "2021-10-19": 764
@@ -1283,19 +1282,17 @@
     "icon": "https://favicons.githubusercontent.com/www.itvkurze.sk",
     "slug": "www-itvkurze-sk",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 826,
     "timeDay": 787,
     "timeWeek": 880,
     "timeMonth": 856,
     "timeYear": 826,
-    "dailyMinutesDown": {
-      "2021-10-26": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.lamac.sk",
@@ -1303,18 +1300,17 @@
     "icon": "https://favicons.githubusercontent.com/www.lamac.sk",
     "slug": "www-lamac-sk",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 1547,
     "timeDay": 1407,
     "timeWeek": 1641,
     "timeMonth": 1546,
     "timeYear": 1547,
     "dailyMinutesDown": {
-      "2021-10-26": 13,
       "2021-08-31": 22
     }
   },
@@ -1324,19 +1320,17 @@
     "icon": "https://favicons.githubusercontent.com/www.livinn.sk",
     "slug": "www-livinn-sk",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1121,
     "timeDay": 923,
     "timeWeek": 1101,
     "timeMonth": 1001,
     "timeYear": 1121,
-    "dailyMinutesDown": {
-      "2021-10-26": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.widex-eshop.sk",
@@ -1345,9 +1339,9 @@
     "slug": "www-widex-eshop-sk",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1272,
     "timeDay": 1171,
@@ -1355,7 +1349,6 @@
     "timeMonth": 1174,
     "timeYear": 1272,
     "dailyMinutesDown": {
-      "2021-10-26": 12,
       "2021-08-31": 79
     }
   },
@@ -1365,19 +1358,17 @@
     "icon": "https://favicons.githubusercontent.com/www.starsforstars.eu",
     "slug": "www-starsforstars-eu",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1023,
     "timeDay": 961,
     "timeWeek": 1017,
     "timeMonth": 954,
     "timeYear": 1023,
-    "dailyMinutesDown": {
-      "2021-10-26": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.baoffice.sk",
@@ -1385,18 +1376,17 @@
     "icon": "https://favicons.githubusercontent.com/www.baoffice.sk",
     "slug": "www-baoffice-sk",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 906,
     "timeDay": 727,
     "timeWeek": 828,
     "timeMonth": 813,
     "timeYear": 906,
     "dailyMinutesDown": {
-      "2021-10-26": 11,
       "2021-06-06": 75
     }
   },
@@ -1407,9 +1397,9 @@
     "slug": "www-rosler-sk",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1672,
     "timeDay": 1507,
@@ -1417,7 +1407,6 @@
     "timeMonth": 1667,
     "timeYear": 1672,
     "dailyMinutesDown": {
-      "2021-10-26": 11,
       "2021-08-31": 22
     }
   },
@@ -1427,18 +1416,17 @@
     "icon": "https://favicons.githubusercontent.com/www.zuriarchitecture.com",
     "slug": "www-zuriarchitecture-com",
     "status": "up",
-    "uptime": "97.04%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "84.90%",
-    "uptimeYear": "97.04%",
+    "uptime": "97.05%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "84.92%",
+    "uptimeYear": "97.05%",
     "time": 742,
     "timeDay": 733,
     "timeWeek": 815,
     "timeMonth": 772,
     "timeYear": 742,
     "dailyMinutesDown": {
-      "2021-10-26": 10,
       "2021-10-04": 569,
       "2021-10-03": 1440,
       "2021-10-02": 1440,
