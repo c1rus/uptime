@@ -317,11 +317,11 @@
     "url": "https://www.ssc.sk/sk/Aktualne.ssc",
     "icon": "https://favicons.githubusercontent.com/www.ssc.sk",
     "slug": "www-ssc-sk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "95.19%",
-    "uptimeWeek": "93.96%",
-    "uptimeMonth": "97.68%",
+    "uptimeDay": "94.84%",
+    "uptimeWeek": "93.91%",
+    "uptimeMonth": "97.67%",
     "uptimeYear": "99.17%",
     "time": 1133,
     "timeDay": 1063,
@@ -329,7 +329,7 @@
     "timeMonth": 1087,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2022-03-11": 54,
+      "2022-03-11": 59,
       "2022-03-10": 109,
       "2022-03-09": 37,
       "2022-03-08": 19,
@@ -391,8 +391,7 @@
       "2021-09-29": 18,
       "2021-09-28": 42,
       "2021-09-25": 18,
-      "2021-09-23": 59,
-      "2021-09-22": 22
+      "2021-09-23": 59
     }
   },
   {
@@ -400,10 +399,10 @@
     "url": "http://www.hollen.sk/sk/Home.html",
     "icon": "https://favicons.githubusercontent.com/www.hollen.sk",
     "slug": "www-hollen-sk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "95.19%",
-    "uptimeWeek": "93.88%",
+    "uptimeDay": "94.95%",
+    "uptimeWeek": "93.85%",
     "uptimeMonth": "97.66%",
     "uptimeYear": "99.12%",
     "time": 1033,
@@ -412,7 +411,7 @@
     "timeMonth": 1175,
     "timeYear": 1033,
     "dailyMinutesDown": {
-      "2022-03-11": 55,
+      "2022-03-11": 58,
       "2022-03-10": 109,
       "2022-03-09": 37,
       "2022-03-08": 19,
@@ -476,8 +475,7 @@
       "2021-09-25": 18,
       "2021-09-23": 38,
       "2021-09-22": 40,
-      "2021-09-21": 22,
-      "2021-09-20": 15
+      "2021-09-21": 22
     }
   },
   {
@@ -497,7 +495,7 @@
     "timeMonth": 2363,
     "timeYear": 2768,
     "dailyMinutesDown": {
-      "2022-03-11": 1025,
+      "2022-03-11": 1050,
       "2022-03-10": 1440,
       "2022-03-09": 1440,
       "2022-03-08": 1440,
@@ -932,19 +930,19 @@
     "url": "https://www.zisk.eu/sk/Home.alej",
     "icon": "https://favicons.githubusercontent.com/www.zisk.eu",
     "slug": "www-zisk-eu",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "95.20%",
-    "uptimeWeek": "92.30%",
-    "uptimeMonth": "97.30%",
-    "uptimeYear": "99.23%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "95.10%",
+    "uptimeWeek": "92.28%",
+    "uptimeMonth": "97.29%",
+    "uptimeYear": "99.24%",
     "time": 1549,
     "timeDay": 1365,
     "timeWeek": 1478,
     "timeMonth": 1727,
     "timeYear": 1549,
     "dailyMinutesDown": {
-      "2022-03-11": 54,
+      "2022-03-11": 55,
       "2022-03-10": 109,
       "2022-03-09": 37,
       "2022-03-08": 19,
@@ -1008,7 +1006,7 @@
       "2021-09-23": 38,
       "2021-09-22": 40,
       "2021-09-21": 22,
-      "2021-09-20": 57
+      "2021-09-20": 15
     }
   },
   {
