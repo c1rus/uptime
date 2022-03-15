@@ -1,7 +1,7 @@
 url: https://www.amplia.sk
-status: up
-code: 200
-responseTime: 770
-lastUpdated: 2022-03-15T10:17:52.663Z
+status: down
+code: 503
+responseTime: 559
+lastUpdated: 2022-03-15T15:50:00.232Z
 startTime: Mon May 24 2021 14:07:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
