@@ -1,7 +1,7 @@
 url: http://cms2.alejtech.eu/UserSystem/login/login.alej
-status: up
-code: 200
-responseTime: 719
-lastUpdated: 2022-04-26T23:13:37.314Z
+status: down
+code: 403
+responseTime: 552
+lastUpdated: 2022-04-27T07:56:12.928Z
 startTime: Mon May 24 2021 14:05:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
