@@ -3,60 +3,22 @@ owner: c1rus # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
 sites:
-  - name: cms.alejtech.eu
-    url: http://cms.alejtech.eu/UserSystem/login/login.alej
-  - name: cms2.alejtech.eu
-    url: http://cms2.alejtech.eu/UserSystem/login/login.alej
-  - name: cms3.alejtech.eu
-    url: http://cms3.alejtech.eu/UserSystem/login/login.alej
-  - name: cms4.alejtech.eu
-    url: http://cms4.alejtech.eu/UserSystem/login/login.alej
-  - name: cms5.alejtech.eu
-    url: http://cms5.alejtech.eu/UserSystem/login/login.alej
-  - name: intra.hollen.sk
-    url: https://intra.hollen.sk/UserSystem/login/login.alej
   - name: hint.hollen.sk
     url: https://hint.hollen.sk/
-  - name: b2b.hollen.sk
-    url: http://b2b.hollen.sk/sk/Home.alej
   - name: www.dubravka.sk
     url: https://www.dubravka.sk/
-  - name: www.ssc.sk
-    url: https://www.ssc.sk/sk/Aktualne.ssc
-  - name: www.hollen.sk
-    url: http://www.hollen.sk/sk/Home.html
-  - name: www.iuventa.sk
-    url: https://www.iuventa.sk/sk/IUVENTA-home.alej
   - name: www.soi.sk
     url: https://www.soi.sk/sk/Novinky-SOI.soi
-  - name: www.datakabinet.sk
-    url: https://www.datakabinet.sk/sk/Home.html
-  - name: www.ozpsav.sk
-    url: https://www.ozpsav.sk/sk/Odborovy-zvaz.alej
-  - name: www.zisk.eu
-    url: https://www.zisk.eu/sk/Home.alej
   - name: www.priklady.eu
     url: https://www.priklady.eu/sk/Index.alej           
+  - name: www.sps-sro.sk
+    url: https://www.sps-sro.sk/sk/Vitajte-na-SPS.html
+  - name: www.rosler.sk
+    url: https://www.rosler.sk/
   - name: www.sizp.sk
     url: https://www.sizp.sk/
   - name: master.kabernet.sk
     url: https://master.kabernet.sk/
-  - name: www.sedackybeta.sk
-    url: https://www.sedackybeta.sk/
-  - name: www.tinytoe.sk
-    url: https://www.tinytoe.sk/
-  - name: www.1cornhill.com
-    url: https://www.1cornhill.com/
-  - name: www.sps-sro.sk
-    url: https://www.sps-sro.sk/sk/Vitajte-na-SPS.html
-  - name: www.leopoldov.sk
-    url: https://www.leopoldov.sk/
-  - name: www.saledon.sk
-    url: https://www.saledon.sk/sk/swiss-army.html
-  - name: tamagochi.cms4.alejtech.eu
-    url: http://tamagochi.cms4.alejtech.eu/
-  - name: alejtech.sitocrm.eu
-    url: https://alejtech.sitocrm.eu/UserSystem/login/login.alej
   - name: www.kabernet.sk
     url: https://www.kabernet.sk
   - name: www.idl.sk
@@ -111,6 +73,8 @@ sites:
     url: https://www.rosler.sk/
   - name: www.zuriarchitecture.com
     url: https://www.zuriarchitecture.com/
+  - name: easyestate.sk
+    url: https://easyestate.sk/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
