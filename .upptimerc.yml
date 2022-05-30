@@ -23,8 +23,6 @@ sites:
     url: https://www.kabernet.sk
   - name: www.idl.sk
     url: https://www.idl.sk
-  - name: www.omnia.sk
-    url: https://www.omnia.sk
   - name: www.slovakiatech.sk
     url: https://www.slovakiatech.sk
   - name: www.sokratovinstitut.sk
