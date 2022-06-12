@@ -51,18 +51,19 @@
     "url": "https://www.soi.sk/sk/Novinky-SOI.soi",
     "icon": "https://favicons.githubusercontent.com/www.soi.sk",
     "slug": "www-soi-sk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.95%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.94%",
     "uptimeMonth": "97.04%",
     "uptimeYear": "99.31%",
     "time": 890,
-    "timeDay": 963,
-    "timeWeek": 790,
-    "timeMonth": 799,
+    "timeDay": 892,
+    "timeWeek": 787,
+    "timeMonth": 798,
     "timeYear": 891,
     "dailyMinutesDown": {
+      "2022-06-12": 1,
       "2022-06-10": 21,
       "2022-06-09": 35,
       "2022-06-08": 28,
@@ -117,7 +118,7 @@
       "2022-03-16": 17,
       "2022-03-14": 18,
       "2022-03-13": 31,
-      "2022-03-12": 62
+      "2022-03-12": 45
     }
   },
   {
@@ -196,7 +197,7 @@
     "status": "up",
     "uptime": "94.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.94%",
+    "uptimeWeek": "84.67%",
     "uptimeMonth": "77.79%",
     "uptimeYear": "94.25%",
     "time": 1220,
