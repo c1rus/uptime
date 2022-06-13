@@ -51,18 +51,19 @@
     "url": "https://www.soi.sk/sk/Novinky-SOI.soi",
     "icon": "https://favicons.githubusercontent.com/www.soi.sk",
     "slug": "www-soi-sk",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.95%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.15%",
     "uptimeMonth": "97.04%",
     "uptimeYear": "99.31%",
     "time": 890,
-    "timeDay": 893,
-    "timeWeek": 817,
+    "timeDay": 703,
+    "timeWeek": 819,
     "timeMonth": 802,
     "timeYear": 891,
     "dailyMinutesDown": {
+      "2022-06-13": 1,
       "2022-06-10": 21,
       "2022-06-09": 35,
       "2022-06-08": 28,
@@ -117,7 +118,7 @@
       "2022-03-16": 17,
       "2022-03-14": 18,
       "2022-03-13": 31,
-      "2022-03-12": 62
+      "2022-03-12": 45
     }
   },
   {
@@ -180,7 +181,7 @@
     "uptimeYear": "99.99%",
     "time": 1640,
     "timeDay": 1380,
-    "timeWeek": 1475,
+    "timeWeek": 1490,
     "timeMonth": 1492,
     "timeYear": 1636,
     "dailyMinutesDown": {
@@ -194,14 +195,14 @@
     "icon": "https://favicons.githubusercontent.com/www.sizp.sk",
     "slug": "www-sizp-sk",
     "status": "up",
-    "uptime": "94.55%",
+    "uptime": "94.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.24%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "77.79%",
     "uptimeYear": "94.25%",
     "time": 1219,
     "timeDay": 1047,
-    "timeWeek": 1119,
+    "timeWeek": 1106,
     "timeMonth": 1148,
     "timeYear": 1221,
     "dailyMinutesDown": {
@@ -319,7 +320,7 @@
     "icon": "https://favicons.githubusercontent.com/www.slovakiatech.sk",
     "slug": "www-slovakiatech-sk",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "98.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
@@ -406,7 +407,7 @@
     "uptimeYear": "99.98%",
     "time": 828,
     "timeDay": 667,
-    "timeWeek": 749,
+    "timeWeek": 748,
     "timeMonth": 745,
     "timeYear": 832,
     "dailyMinutesDown": {
@@ -430,7 +431,7 @@
     "uptimeYear": "99.97%",
     "time": 1058,
     "timeDay": 676,
-    "timeWeek": 863,
+    "timeWeek": 869,
     "timeMonth": 875,
     "timeYear": 1055,
     "dailyMinutesDown": {
@@ -455,7 +456,7 @@
     "uptimeYear": "99.98%",
     "time": 1013,
     "timeDay": 866,
-    "timeWeek": 862,
+    "timeWeek": 867,
     "timeMonth": 944,
     "timeYear": 1019,
     "dailyMinutesDown": {
@@ -479,7 +480,7 @@
     "uptimeYear": "99.98%",
     "time": 1070,
     "timeDay": 709,
-    "timeWeek": 910,
+    "timeWeek": 895,
     "timeMonth": 935,
     "timeYear": 1077,
     "dailyMinutesDown": {
@@ -503,7 +504,7 @@
     "uptimeYear": "99.92%",
     "time": 1705,
     "timeDay": 924,
-    "timeWeek": 1196,
+    "timeWeek": 1100,
     "timeMonth": 1097,
     "timeYear": 1652,
     "dailyMinutesDown": {
@@ -530,7 +531,7 @@
     "uptimeYear": "99.96%",
     "time": 988,
     "timeDay": 825,
-    "timeWeek": 949,
+    "timeWeek": 973,
     "timeMonth": 961,
     "timeYear": 990,
     "dailyMinutesDown": {
@@ -855,7 +856,7 @@
     "uptimeYear": "99.99%",
     "time": 1640,
     "timeDay": 1380,
-    "timeWeek": 1475,
+    "timeWeek": 1490,
     "timeMonth": 1492,
     "timeYear": 1636,
     "dailyMinutesDown": {
