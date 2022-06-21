@@ -1,7 +1,7 @@
 url: https://www.soi.sk/sk/Novinky-SOI.soi
-status: up
-code: 200
-responseTime: 1225
-lastUpdated: 2022-06-21T09:56:26.540Z
+status: down
+code: 403
+responseTime: 683
+lastUpdated: 2022-06-21T14:54:38.243Z
 startTime: Mon May 24 2021 14:06:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
