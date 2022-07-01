@@ -7,8 +7,6 @@ sites:
     url: https://hint.hollen.sk/
   - name: www.dubravka.sk
     url: https://www.dubravka.sk/
-  - name: www.soi.sk
-    url: https://www.soi.sk/sk/Novinky-SOI.soi
   - name: www.priklady.eu
     url: https://www.priklady.eu/sk/Index.alej           
   - name: www.sps-sro.sk
