@@ -1,7 +1,7 @@
 url: https://www.toonet.sk
-status: up
-code: 200
-responseTime: 1267
-lastUpdated: 2022-07-04T23:12:44.313Z
+status: down
+code: 503
+responseTime: 1638
+lastUpdated: 2022-07-05T09:35:27.741Z
 startTime: Mon May 24 2021 14:07:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
