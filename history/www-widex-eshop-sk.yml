@@ -1,7 +1,7 @@
 url: https://www.widex-eshop.sk/
-status: up
-code: 200
-responseTime: 1623
-lastUpdated: 2022-07-04T23:12:53.043Z
+status: down
+code: 503
+responseTime: 1418
+lastUpdated: 2022-07-05T09:35:43.714Z
 startTime: Mon May 24 2021 14:07:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
