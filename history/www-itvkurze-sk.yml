@@ -1,7 +1,7 @@
 url: https://www.itvkurze.sk
-status: up
-code: 200
-responseTime: 636
-lastUpdated: 2023-06-10T23:10:14.896Z
+status: down
+code: 500
+responseTime: 465
+lastUpdated: 2023-06-11T07:18:48.054Z
 startTime: Mon May 24 2021 14:07:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
