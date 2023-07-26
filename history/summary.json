@@ -1008,14 +1008,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "61.04%",
+    "uptimeYear": "61.03%",
     "time": 907,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 898,
     "dailyMinutesDown": {
-      "2023-07-26": 733,
+      "2023-07-26": 764,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
@@ -1623,19 +1623,19 @@
     "url": "https://easyestate.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/easyestate.sk.ico",
     "slug": "easyestate-sk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 923,
-    "timeDay": 1127,
-    "timeWeek": 1018,
-    "timeMonth": 979,
-    "timeYear": 882,
+    "timeDay": 1063,
+    "timeWeek": 1009,
+    "timeMonth": 977,
+    "timeYear": 883,
     "dailyMinutesDown": {
-      "2023-07-26": 3
+      "2023-07-26": 33
     }
   }
 ]
