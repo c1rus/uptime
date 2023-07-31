@@ -9,8 +9,6 @@ sites:
     url: https://www.dubravka.sk/
   - name: www.priklady.eu
     url: https://www.priklady.eu/sk/Index.alej           
-  - name: www.sps-sro.sk
-    url: https://www.sps-sro.sk/sk/Vitajte-na-SPS.html
   - name: www.rosler.sk
     url: https://www.rosler.sk/
   - name: www.sizp.sk
@@ -47,8 +45,6 @@ sites:
     url: https://www.clc.sk
   - name: www.pefc.sk
     url: https://www.pefc.sk
-  - name: www.toonet.sk
-    url: https://www.toonet.sk
   - name: www.garancnyfond.sk
     url: https://www.garancnyfond.sk
   - name: www.amplia.sk
@@ -71,6 +67,8 @@ sites:
     url: https://www.zuriarchitecture.com/
   - name: easyestate.sk
     url: https://easyestate.sk/
+  - name: alejtech.sk
+    url: https://www.alejtech.sk/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
