@@ -1,7 +1,7 @@
 url: https://www.baoffice.sk/
-status: up
-code: 200
-responseTime: 953
-lastUpdated: 2023-08-20T23:09:51.153Z
+status: down
+code: 503
+responseTime: 751
+lastUpdated: 2023-08-21T08:11:08.161Z
 startTime: 2021-05-24T14:07:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
