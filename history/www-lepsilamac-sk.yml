@@ -1,7 +1,7 @@
 url: https://www.lepsilamac.sk/co-robime
-status: up
-code: 200
-responseTime: 1200
-lastUpdated: 2023-12-05T23:11:15.232Z
+status: down
+code: 500
+responseTime: 7596
+lastUpdated: 2023-12-06T12:48:08.030Z
 startTime: 2021-05-24T14:06:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
