@@ -1,7 +1,7 @@
 url: https://www.garancnyfond.sk
-status: up
-code: 200
-responseTime: 569
-lastUpdated: 2023-12-05T23:11:18.179Z
+status: down
+code: 500
+responseTime: 5966
+lastUpdated: 2023-12-06T12:49:00.588Z
 startTime: 2021-05-24T14:07:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
