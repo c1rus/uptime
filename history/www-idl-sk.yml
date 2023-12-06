@@ -1,7 +1,7 @@
 url: https://www.idl.sk
-status: up
-code: 200
-responseTime: 754
-lastUpdated: 2023-12-05T23:10:58.516Z
+status: down
+code: 500
+responseTime: 567
+lastUpdated: 2023-12-06T12:47:04.259Z
 startTime: 2021-05-24T14:06:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
