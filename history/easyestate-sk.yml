@@ -1,7 +1,7 @@
 url: https://easyestate.sk/
-status: up
-code: 200
-responseTime: 1035
-lastUpdated: 2024-02-04T23:03:41.208Z
+status: down
+code: 503
+responseTime: 1774
+lastUpdated: 2024-02-05T11:05:37.911Z
 startTime: 2022-05-20T11:10:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
