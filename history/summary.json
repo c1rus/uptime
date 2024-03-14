@@ -6,9 +6,9 @@
     "slug": "hint-hollen-sk",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 803,
     "timeDay": 607,
@@ -16,7 +16,6 @@
     "timeMonth": 865,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2024-03-13": 3,
       "2024-01-22": 16,
       "2023-10-21": 16,
       "2023-10-03": 21,
@@ -42,7 +41,7 @@
     "timeDay": 1541,
     "timeWeek": 1438,
     "timeMonth": 1405,
-    "timeYear": 1205,
+    "timeYear": 1206,
     "dailyMinutesDown": {
       "2023-11-25": 16,
       "2023-11-10": 18,
@@ -83,8 +82,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1691,
-    "timeDay": 1483,
-    "timeWeek": 1717,
+    "timeDay": 1647,
+    "timeWeek": 1734,
     "timeMonth": 1685,
     "timeYear": 1670,
     "dailyMinutesDown": {
@@ -104,7 +103,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.97%",
+    "uptimeYear": "97.98%",
     "time": 1271,
     "timeDay": 1258,
     "timeWeek": 1188,
@@ -120,8 +119,7 @@
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
-      "2023-03-16": 1440,
-      "2023-03-15": 1440
+      "2023-03-16": 1440
     }
   },
   {
@@ -157,12 +155,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.97%",
+    "uptimeYear": "97.98%",
     "time": 1085,
     "timeDay": 830,
     "timeWeek": 900,
     "timeMonth": 936,
-    "timeYear": 1121,
+    "timeYear": 1122,
     "dailyMinutesDown": {
       "2023-12-06": 36,
       "2023-08-21": 18,
@@ -173,8 +171,7 @@
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
-      "2023-03-16": 1440,
-      "2023-03-15": 1440
+      "2023-03-16": 1440
     }
   },
   {
@@ -210,7 +207,7 @@
     "timeDay": 893,
     "timeWeek": 992,
     "timeMonth": 951,
-    "timeYear": 1032,
+    "timeYear": 1031,
     "dailyMinutesDown": {
       "2023-12-06": 21,
       "2023-08-21": 16,
@@ -233,7 +230,7 @@
     "timeDay": 5732,
     "timeWeek": 7247,
     "timeMonth": 6745,
-    "timeYear": 5345,
+    "timeYear": 5350,
     "dailyMinutesDown": {
       "2024-01-15": 20,
       "2024-01-14": 21,
@@ -256,12 +253,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "97.98%",
+    "uptimeYear": "97.99%",
     "time": 1561,
     "timeDay": 1559,
     "timeWeek": 1506,
     "timeMonth": 1498,
-    "timeYear": 1584,
+    "timeYear": 1582,
     "dailyMinutesDown": {
       "2024-03-11": 23,
       "2023-12-06": 15,
@@ -270,8 +267,7 @@
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
-      "2023-03-16": 1440,
-      "2023-03-15": 1440
+      "2023-03-16": 1440
     }
   },
   {
@@ -312,7 +308,7 @@
     "timeDay": 863,
     "timeWeek": 930,
     "timeMonth": 911,
-    "timeYear": 973,
+    "timeYear": 974,
     "dailyMinutesDown": {
       "2024-01-20": 16,
       "2023-12-06": 21,
@@ -327,18 +323,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.natureland.sk.ico",
     "slug": "www-natureland-sk",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.77%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "69.66%",
-    "uptimeMonth": "93.02%",
-    "uptimeYear": "99.40%",
+    "uptimeWeek": "69.04%",
+    "uptimeMonth": "92.88%",
+    "uptimeYear": "99.39%",
     "time": 1147,
     "timeDay": 1392,
     "timeWeek": 1157,
     "timeMonth": 1187,
-    "timeYear": 1221,
+    "timeYear": 1222,
     "dailyMinutesDown": {
-      "2024-03-13": 1384,
+      "2024-03-14": 7,
+      "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 234,
       "2024-01-20": 15,
@@ -386,7 +383,7 @@
     "timeDay": 1538,
     "timeWeek": 4089,
     "timeMonth": 2216,
-    "timeYear": 1430,
+    "timeYear": 1431,
     "dailyMinutesDown": {
       "2024-03-11": 15,
       "2023-12-06": 36,
@@ -456,7 +453,7 @@
     "timeDay": 1600,
     "timeWeek": 1633,
     "timeMonth": 1573,
-    "timeYear": 1755,
+    "timeYear": 1754,
     "dailyMinutesDown": {
       "2023-12-06": 36,
       "2023-08-21": 16,
@@ -497,12 +494,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.78%",
+    "uptimeYear": "93.79%",
     "time": 1267,
     "timeDay": 1123,
     "timeWeek": 1179,
     "timeMonth": 1186,
-    "timeYear": 1290,
+    "timeYear": 1288,
     "dailyMinutesDown": {
       "2023-12-06": 35,
       "2023-08-21": 16,
@@ -527,8 +524,7 @@
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
-      "2023-03-16": 1440,
-      "2023-03-15": 1440
+      "2023-03-16": 1440
     }
   },
   {
@@ -541,7 +537,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.95%",
+    "uptimeYear": "97.96%",
     "time": 910,
     "timeDay": 712,
     "timeWeek": 891,
@@ -560,8 +556,7 @@
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
-      "2023-03-16": 1440,
-      "2023-03-15": 1440
+      "2023-03-16": 1440
     }
   },
   {
@@ -574,7 +569,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.57%",
+    "uptimeYear": "90.58%",
     "time": 907,
     "timeDay": 834,
     "timeWeek": 853,
@@ -615,8 +610,7 @@
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
-      "2023-03-16": 1440,
-      "2023-03-15": 1440
+      "2023-03-16": 1440
     }
   },
   {
@@ -654,7 +648,7 @@
     "timeDay": 1539,
     "timeWeek": 2070,
     "timeMonth": 2598,
-    "timeYear": 1854,
+    "timeYear": 1853,
     "dailyMinutesDown": {
       "2024-02-19": 43,
       "2024-02-11": 20,
@@ -678,7 +672,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.78%",
+    "uptimeYear": "93.79%",
     "time": 1039,
     "timeDay": 972,
     "timeWeek": 942,
@@ -708,8 +702,7 @@
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
-      "2023-03-16": 1440,
-      "2023-03-15": 1440
+      "2023-03-16": 1440
     }
   },
   {
