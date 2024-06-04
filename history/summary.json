@@ -52,11 +52,11 @@
     "url": "https://www.priklady.eu/sk/Index.alej",
     "icon": "https://icons.duckduckgo.com/ip3/www.priklady.eu.ico",
     "slug": "www-priklady-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
     "time": 2074,
     "timeDay": 1555,
@@ -64,6 +64,7 @@
     "timeMonth": 1894,
     "timeYear": 2147,
     "dailyMinutesDown": {
+      "2024-06-04": 1,
       "2024-05-18": 103
     }
   },
@@ -99,7 +100,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sizp.sk.ico",
     "slug": "www-sizp-sk",
     "status": "up",
-    "uptime": "93.11%",
+    "uptime": "93.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
