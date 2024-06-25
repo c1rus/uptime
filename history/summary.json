@@ -52,10 +52,10 @@
     "url": "https://www.priklady.eu/sk/Index.alej",
     "icon": "https://icons.duckduckgo.com/ip3/www.priklady.eu.ico",
     "slug": "www-priklady-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2083,
@@ -64,6 +64,7 @@
     "timeMonth": 1934,
     "timeYear": 2145,
     "dailyMinutesDown": {
+      "2024-06-25": 1,
       "2024-05-18": 103
     }
   },
