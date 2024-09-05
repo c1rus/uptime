@@ -1,7 +1,7 @@
 url: https://www.sizp.sk/
-status: up
-code: 200
-responseTime: 1195
-lastUpdated: 2024-09-05T09:19:59.268Z
+status: down
+code: 500
+responseTime: 25956
+lastUpdated: 2024-09-05T11:16:22.821Z
 startTime: 2021-05-24T14:06:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
