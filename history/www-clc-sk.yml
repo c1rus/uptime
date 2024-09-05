@@ -1,7 +1,7 @@
 url: https://www.clc.sk
-status: up
-code: 200
-responseTime: 1121
-lastUpdated: 2024-09-05T09:20:21.713Z
+status: down
+code: 500
+responseTime: 1325
+lastUpdated: 2024-09-05T11:28:01.321Z
 startTime: 2021-05-24T14:06:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
