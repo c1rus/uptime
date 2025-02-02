@@ -338,9 +338,9 @@ status-website:
     name: Upptime
     navbar:
         - title: Status
-            href: /
+          href: /
         - title: GitHub
-            href: https://github.com/c1rus/uptime
+          href: https://github.com/c1rus/uptime
         
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
