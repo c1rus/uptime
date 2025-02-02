@@ -5,8 +5,17 @@ repo: uptime
 
 sites:
 
-    - name: dubravka.sk
-      url: https://www.dubravka.sk/
+    - name: hint
+      url: https://hint.hollen.sk/
+    
+    - name: admin.metriq
+      url: https://admin.metriq.app/
+    
+    - name: input.metriq
+      url: https://input.metriq.app/
+    
+    - name: view.metriq
+      url: https://view.metriq.app/
     
     - name: priklady.eu
       url: https://www.priklady.eu/sk/Index.alej
