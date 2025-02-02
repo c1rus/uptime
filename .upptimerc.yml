@@ -125,9 +125,6 @@ sites:
     - name: dubravkaintranet
       url: http://intranet.dubravka.sk
     
-    - name: easyestate
-      url: https://easyestate.sk
-    
     - name: energiadlatarnobr
       url: http://www.energiadlatarnobrzega.pl/
     
