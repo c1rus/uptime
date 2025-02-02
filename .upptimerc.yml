@@ -1,89 +1,349 @@
-# Change these first
-owner: c1rus # Your GitHub organization or username, where this repository lives
-repo: uptime # The name of this repository
+# Upptime configuration file
+
+owner: c1rus
+repo: uptime
 
 sites:
-  - name: hint.hollen.sk
-    url: https://hint.hollen.sk/
-  - name: www.dubravka.sk
-    url: https://www.dubravka.sk/
-  - name: www.priklady.eu
-    url: https://www.priklady.eu/sk/Index.alej           
-  - name: www.rosler.sk
-    url: https://www.rosler.sk/
-  - name: www.sizp.sk
-    url: https://www.sizp.sk/
-  - name: master.kabernet.sk
-    url: https://master.kabernet.sk/
-  - name: www.kabernet.sk
-    url: https://www.kabernet.sk
-  - name: www.idl.sk
-    url: https://www.idl.sk
-  - name: www.slovakiatech.sk
-    url: https://www.slovakiatech.sk
-  - name: easyestate.sk
-    url: https://easyestate.sk
-  - name: www.koucovaciaskola.sk
-    url: https://www.koucovaciaskola.sk
-  - name: www.horecaclub.sk
-    url: https://www.horecaclub.sk
-  - name: www.rackscale.sk
-    url: https://www.rackscale.sk
-  - name: www.natureland.sk
-    url: https://www.natureland.sk
-  - name: www.virtualsan.sk
-    url: https://www.virtualsan.sk
-  - name: www.optikafontana.sk
-    url: https://www.optikafontana.sk
-  - name: www.levare.sk
-    url: https://www.levare.sk
-  - name: www.bellavista.sk
-    url: https://www.bellavista.sk
-  - name: www.lepsilamac.sk
-    url: https://www.lepsilamac.sk/co-robime
-  - name: www.clc.sk
-    url: https://www.clc.sk
-  - name: www.pefc.sk
-    url: https://www.pefc.sk
-  - name: www.garancnyfond.sk
-    url: https://www.garancnyfond.sk
-  - name: www.amplia.sk
-    url: https://www.amplia.sk
-  - name: www.itvkurze.sk
-    url: https://www.itvkurze.sk
-  - name: www.lamac.sk
-    url: https://www.lamac.sk
-  - name: www.livinn.sk
-    url: https://www.livinn.sk
-  - name: www.widex-eshop.sk
-    url: https://www.widex-eshop.sk/
-  - name: www.starsforstars.eu
-    url: https://www.starsforstars.eu/
-  - name: www.baoffice.sk
-    url: https://www.baoffice.sk/
-  - name: www.rosler.sk
-    url: https://www.rosler.sk/
-  - name: www.zuriarchitecture.com
-    url: https://www.zuriarchitecture.com/
-  - name: easyestate.sk
-    url: https://easyestate.sk/
-  - name: alejtech.sk
-    url: https://www.alejtech.sk/
+
+    - name: dubravka.sk
+      url: https://www.dubravka.sk/
+    
+    - name: priklady.eu
+      url: https://www.priklady.eu/sk/Index.alej
+    
+    - name: master.kabernet.sk
+      url: https://master.kabernet.sk/
+    
+    - name: 1cornhill
+      url: http://www.iiplt.lu
+    
+    - name: 1sjs
+      url: https://www.1sjs.sk
+    
+    - name: 2pmd
+      url: http://www.2pmd.sk
+    
+    - name: addcar-cee
+      url: https://www.addcar-cee.sk
+    
+    - name: air-air
+      url: https://www.air-air.sk/
+    
+    - name: alejtech
+      url: https://www.alejtech.sk/
+    
+    - name: amplia
+      url: http://www.amplia.sk/
+    
+    - name: archdom
+      url: https://www.archdom.sk/
+    
+    - name: archicube
+      url: http://www.mirko.sk/
+    
+    - name: archivovanie
+      url: https://www.archivovanie.sk
+    
+    - name: arkadyhof
+      url: https://www.arkadyhof.sk
+    
+    - name: asseco-erp
+      url: https://asseco-cloud.sk
+    
+    - name: autentista
+      url: https://www.autentista.sk
+    
+    - name: back2life
+      url: https://www.back2life.sk
+    
+    - name: baiahouse
+      url: https://www.baia.sk
+    
+    - name: balancelife
+      url: http://www.balancelife.sk/
+    
+    - name: baoffice
+      url: https://www.baoffice.sk
+    
+    - name: barnakova
+      url: https://www.barnakova.sk
+    
+    - name: bastapajstun
+      url: https://www.bastapajstun.sk
+    
+    - name: bellavista
+      url: https://www.bellavista.sk
+    
+    - name: bellinioleje
+      url: https://www.bellinioleje.sk/
+    
+    - name: betweenusagency
+      url: https://www.betweenusagency.sk/
+    
+    - name: bevori
+      url: http://www.bevori.sk
+    
+    - name: brilliantstars
+      url: http://www.brilliantstars.sk/
+    
+    - name: carodejnik
+      url: http://www.carodejnikzkrajiny.sk
+    
+    - name: cdp2
+      url: https://www.cdp.sk/
+    
+    - name: circularblog
+      url: http://www.circularblog.at
+    
+    - name: clcsk
+      url: https://www.clc.sk
+    
+    - name: cofra
+      url: https://www.cofra.sk
+    
+    - name: consiliorreality
+      url: https://www.consiliorreality.sk/
+    
+    - name: cpppapmyjava
+      url: http://www.cpppapmyjava.sk/
+    
+    - name: csslevare
+      url: https://css.levare.sk
+    
+    - name: dancepowerido
+      url: http://www.dance-power-ido.eu/
+    
+    - name: digizrucnosti
+      url: https://www.digizrucnosti.sk
+    
+    - name: dnvtv
+      url: http://www.dtv.eu.sk/
+    
+    - name: dracar
+      url: https://www.dracar.sk/
+    
+    - name: dubravkaintranet
+      url: http://intranet.dubravka.sk
+    
+    - name: easyestate
+      url: https://easyestate.sk
+    
+    - name: energiadlatarnobr
+      url: http://www.energiadlatarnobrzega.pl/
+    
+    - name: fcc30
+      url: https://history.fcc-group.eu/
+    
+    - name: fcc-group
+      url: https://www.fcc-group.eu/
+    
+    - name: fccpopelar
+      url: https://fccpopelar.kabernet.sk
+    
+    - name: garancnyfond
+      url: https://www.garancnyfond.sk
+    
+    - name: gefran
+      url: https://www.gefran.sk
+    
+    - name: hbusr
+      url: https://www.hbu.sk
+    
+    - name: horecaclub
+      url: https://www.horecaclub.sk
+    
+    - name: idlc
+      url: https://www.idl.sk/
+    
+    - name: icho
+      url: http://www.icho.sk
+    
+    - name: itvkurze
+      url: https://www.itvkurze.sk/
+    
+    - name: jgspedition
+      url: https://www.jgspedition.sk
+    
+    - name: kabernet2
+      url: https://www.kabernet.sk/
+    
+    - name: kolas
+      url: https://www.kolas.sk
+    
+    - name: koucovaciaskola2
+      url: https://www.koucovaciaskola.sk
+    
+    - name: kucharik
+      url: http://www.ladislavkucharik.sk
+    
+    - name: kycerburger
+      url: https://www.kycerburger.sk/
+    
+    - name: lamac
+      url: https://www.lamac.sk
+    
+    - name: lamacan
+      url: https://lamacan.sk
+    
+    - name: lepsilamac
+      url: http://www.lepsilamac.sk
+    
+    - name: levare
+      url: http://www.levare.sk
+    
+    - name: livinn
+      url: https://www.livinn.sk
+    
+    - name: madunicki
+      url: https://www.madunicki.sk
+    
+    - name: makas
+      url: https://www.makas.sk/
+    
+    - name: mecomimagebank
+      url: https://www.mecomdatabaza.sk
+    
+    - name: mecomsutaz
+      url: https://www.mecomsutaz.sk
+    
+    - name: mecomsutazgril
+      url: https://www.mecomsutaz.sk/
+    
+    - name: mujodpad
+      url: https://mujodpad.kabernet.sk
+    
+    - name: myfccservices
+      url: https://myfccservices.kabernet.sk
+    
+    - name: nadaciams
+      url: https://www.nadaciamilanasimecku.sk/
+    
+    - name: natureland
+      url: http://www.natureland.sk
+    
+    - name: omnia
+      url: http://www.omnia.sk
+    
+    - name: optikafontana
+      url: https://www.optikafontana.sk/
+    
+    - name: optimeye
+      url: https://optimeye.sk
+    
+    - name: pbproject
+      url: https://www.pbproject.sk
+    
+    - name: pefc
+      url: http://www.pefc.sk/
+    
+    - name: pomocky
+      url: https://www.widex-eshop.sk
+    
+    - name: prenajmisi
+      url: https://www.prenajmisi.to/
+    
+    - name: professio
+      url: https://www.professio.sk
+    
+    - name: qasida
+      url: https://asseco-qasida.com/
+    
+    - name: qvota
+      url: https://www.limejet.com
+    
+    - name: rackscale
+      url: https://www.rackscale.sk/
+    
+    - name: rosler
+      url: https://www.rosler.sk/
+    
+    - name: salamovaturistika
+      url: https://www.salamovaturistika.sk
+    
+    - name: santeria
+      url: http://www.santeria.sk
+    
+    - name: sgsglass
+      url: https://www.sgsglass.sk
+    
+    - name: simiter
+      url: https://simiter.sk
+    
+    - name: sizp
+      url: https://www.sizp.sk
+    
+    - name: slovakiatech
+      url: http://www.slovakiatech.sk
+    
+    - name: starsforstars
+      url: https://www.starsforstars.eu
+    
+    - name: supervision-ges
+      url: https://supervision-ges.eu
+    
+    - name: teambaruzinov
+      url: https://www.teambaruzinov.sk/
+    
+    - name: tekmar
+      url: https://www.tekmarbrands.com/
+    
+    - name: tereza
+      url: https://www.apartmanytereza.sk
+    
+    - name: thepop
+      url: https://www.thepop.sk
+    
+    - name: tws-projekt
+      url: https://www.tvorba-web-stranok.net/
+    
+    - name: valcer
+      url: http://www.zdraviekrasasloboda.sk
+    
+    - name: vilalavina2
+      url: http://www.vilalavina.sk
+    
+    - name: vinosadski-vinari
+      url: http://www.vinosadski-vinari.sk/
+    
+    - name: virtualsan
+      url: http://www.virtualsan.sk
+    
+    - name: viziodron
+      url: http://www.viziodron.sk
+    
+    - name: vreckovynoz
+      url: https://vreckovynoz.sk/
+    
+    - name: vylozsmeti
+      url: https://vylozsmeti.kabernet.sk
+    
+    - name: youngtalents
+      url: http://www.youngtalent.support
+    
+    - name: zistersdorf
+      url: https://zistersdorf.fcc-group.at/
+    
+    - name: zskuliskova
+      url: http://www.zskuliskova.sk/
+    
+    - name: zsnevadzova
+      url: https://www.zsnevadzova.sk
+    
+    - name: zuri
+      url: https://www.zuriarchitecture.com/
     
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
+    # Add your custom domain name, or remove the `cname` line if you don't have a domain
+    # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+    # cname: demo.upptime.js.org
+    baseUrl: /uptime
+    logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+    name: Upptime
+    navbar:
+        - title: Status
+            href: /
+        - title: GitHub
+            href: https://github.com/c1rus/uptime
+        
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
