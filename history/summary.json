@@ -589,18 +589,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.consiliorreality.sk.ico",
     "slug": "consiliorreality",
     "status": "down",
-    "uptime": "0.53%",
-    "uptimeDay": "0.53%",
-    "uptimeWeek": "0.53%",
-    "uptimeMonth": "0.53%",
-    "uptimeYear": "0.53%",
+    "uptime": "0.40%",
+    "uptimeDay": "0.40%",
+    "uptimeWeek": "0.40%",
+    "uptimeMonth": "0.40%",
+    "uptimeYear": "0.40%",
     "time": 730,
     "timeDay": 730,
     "timeWeek": 730,
     "timeMonth": 730,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2025-02-02": 4
+      "2025-02-02": 5
     }
   },
   {
@@ -789,18 +789,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fccpopelar.kabernet.sk.ico",
     "slug": "fccpopelar",
     "status": "down",
-    "uptime": "1.06%",
-    "uptimeDay": "1.06%",
-    "uptimeWeek": "1.06%",
-    "uptimeMonth": "1.06%",
-    "uptimeYear": "1.06%",
+    "uptime": "1.18%",
+    "uptimeDay": "1.18%",
+    "uptimeWeek": "1.18%",
+    "uptimeMonth": "1.18%",
+    "uptimeYear": "1.18%",
     "time": 1577,
     "timeDay": 1577,
     "timeWeek": 1577,
     "timeMonth": 1577,
     "timeYear": 1577,
     "dailyMinutesDown": {
-      "2025-02-02": 3
+      "2025-02-02": 4
     }
   },
   {
