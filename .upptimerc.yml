@@ -101,9 +101,6 @@ sites:
     - name: cofra
       url: https://www.cofra.sk
     
-    - name: consiliorreality
-      url: https://www.consiliorreality.sk/
-    
     - name: cpppapmyjava
       url: http://www.cpppapmyjava.sk/
     
@@ -133,9 +130,6 @@ sites:
     
     - name: fcc-group
       url: https://www.fcc-group.eu/
-    
-    - name: fccpopelar
-      url: https://fccpopelar.kabernet.sk
     
     - name: garancnyfond
       url: https://www.garancnyfond.sk
