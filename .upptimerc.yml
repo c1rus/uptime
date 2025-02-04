@@ -2,6 +2,7 @@
 
 owner: c1rus
 repo: uptime
+skipDeleteIssues: true
 
 sites:
 
