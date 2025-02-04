@@ -248,9 +248,6 @@ sites:
     - name: qasida
       url: https://asseco-qasida.com/
     
-    - name: qvota
-      url: https://www.limejet.com
-    
     - name: rackscale
       url: https://www.rackscale.sk/
     
