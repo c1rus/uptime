@@ -1226,19 +1226,19 @@
     "url": "https://www.mecomsutaz.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mecomsutaz.sk.ico",
     "slug": "mecomsutazgril",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 4333,
-    "timeDay": 2451,
-    "timeWeek": 4333,
-    "timeMonth": 4333,
-    "timeYear": 4333,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 4442,
+    "timeDay": 3406,
+    "timeWeek": 4442,
+    "timeMonth": 4442,
+    "timeYear": 4442,
     "dailyMinutesDown": {
-      "2025-02-05": 2
+      "2025-02-05": 4
     }
   },
   {
