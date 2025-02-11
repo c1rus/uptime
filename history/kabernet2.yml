@@ -1,7 +1,7 @@
 url: https://www.kabernet.sk/
-status: up
-code: 200
-responseTime: 730
-lastUpdated: 2025-02-10T23:03:47.295Z
+status: down
+code: 500
+responseTime: 14973
+lastUpdated: 2025-02-11T17:38:10.731Z
 startTime: 2025-02-02T09:40:53.002Z
 generator: Upptime <https://github.com/upptime/upptime>
