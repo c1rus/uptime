@@ -1,7 +1,7 @@
 url: http://www.pefc.sk/
-status: up
-code: 200
-responseTime: 1760
-lastUpdated: 2025-02-10T23:04:26.726Z
+status: down
+code: 500
+responseTime: 26162
+lastUpdated: 2025-02-11T17:42:00.046Z
 startTime: 2025-02-02T09:42:22.067Z
 generator: Upptime <https://github.com/upptime/upptime>
