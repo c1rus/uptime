@@ -1,7 +1,7 @@
 url: http://www.ladislavkucharik.sk
-status: up
-code: 200
-responseTime: 620
-lastUpdated: 2025-02-10T23:03:50.842Z
+status: down
+code: 500
+responseTime: 387
+lastUpdated: 2025-02-11T17:38:21.858Z
 startTime: 2025-02-02T09:40:57.484Z
 generator: Upptime <https://github.com/upptime/upptime>
