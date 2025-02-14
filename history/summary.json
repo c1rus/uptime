@@ -1757,19 +1757,19 @@
     "url": "https://www.teambaruzinov.sk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.teambaruzinov.sk.ico",
     "slug": "teambaruzinov",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1485,
-    "timeDay": 668,
-    "timeWeek": 729,
-    "timeMonth": 1485,
-    "timeYear": 1485,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1459,
+    "timeDay": 776,
+    "timeWeek": 758,
+    "timeMonth": 1459,
+    "timeYear": 1459,
     "dailyMinutesDown": {
-      "2025-02-14": 2
+      "2025-02-14": 7
     }
   },
   {
