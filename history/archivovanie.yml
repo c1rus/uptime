@@ -1,7 +1,7 @@
 url: https://www.archivovanie.sk
-status: up
-code: 200
-responseTime: 964
-lastUpdated: 2025-02-15T23:03:15.952Z
+status: down
+code: 503
+responseTime: 1636
+lastUpdated: 2025-02-16T19:01:52.216Z
 startTime: 2025-02-02T09:37:50.412Z
 generator: Upptime <https://github.com/upptime/upptime>
