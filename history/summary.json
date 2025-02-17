@@ -1423,18 +1423,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nadaciamilanasimecku.sk.ico",
     "slug": "nadaciams",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.94%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 1876,
     "timeDay": 2437,
     "timeWeek": 1939,
     "timeMonth": 1876,
     "timeYear": 1876,
     "dailyMinutesDown": {
-      "2025-02-17": 3
+      "2025-02-17": 13
     }
   },
   {
@@ -1787,19 +1787,19 @@
     "url": "http://www.slovakiatech.sk",
     "icon": "https://icons.duckduckgo.com/ip3/www.slovakiatech.sk.ico",
     "slug": "slovakiatech",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2348,
-    "timeDay": 2840,
-    "timeWeek": 2155,
-    "timeMonth": 2348,
-    "timeYear": 2348,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 2352,
+    "timeDay": 2630,
+    "timeWeek": 2188,
+    "timeMonth": 2352,
+    "timeYear": 2352,
     "dailyMinutesDown": {
-      "2025-02-17": 2
+      "2025-02-17": 11
     }
   },
   {
