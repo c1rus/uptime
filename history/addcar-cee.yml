@@ -1,7 +1,7 @@
 url: https://www.addcar-cee.sk
-status: up
-code: 200
-responseTime: 521
-lastUpdated: 2025-02-20T23:03:42.302Z
+status: down
+code: 503
+responseTime: 583
+lastUpdated: 2025-02-21T17:34:45.610Z
 startTime: 2025-02-02T09:37:13.508Z
 generator: Upptime <https://github.com/upptime/upptime>
