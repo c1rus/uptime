@@ -1,7 +1,7 @@
 url: https://vylozsmeti.kabernet.sk
-status: up
-code: 200
-responseTime: 1165
-lastUpdated: 2025-03-06T23:05:36.148Z
+status: down
+code: 503
+responseTime: 815
+lastUpdated: 2025-03-07T08:57:09.325Z
 startTime: 2025-02-02T09:43:29.542Z
 generator: Upptime <https://github.com/upptime/upptime>
