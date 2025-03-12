@@ -1,7 +1,7 @@
 url: http://www.bevori.sk
-status: up
-code: 200
-responseTime: 1305
-lastUpdated: 2025-03-12T11:49:19.900Z
+status: down
+code: 503
+responseTime: 451
+lastUpdated: 2025-03-12T15:07:32.675Z
 startTime: 2025-02-02T09:39:06.383Z
 generator: Upptime <https://github.com/upptime/upptime>
