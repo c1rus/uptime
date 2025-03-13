@@ -1,7 +1,7 @@
 url: https://asseco-cloud.sk
-status: up
-code: 200
-responseTime: 1408
-lastUpdated: 2025-03-12T23:04:36.190Z
+status: down
+code: 503
+responseTime: 485
+lastUpdated: 2025-03-13T13:49:39.905Z
 startTime: 2025-02-02T09:37:53.023Z
 generator: Upptime <https://github.com/upptime/upptime>
