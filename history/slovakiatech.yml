@@ -1,7 +1,7 @@
 url: http://www.slovakiatech.sk
-status: up
-code: 200
-responseTime: 3207
-lastUpdated: 2025-03-31T23:05:34.198Z
+status: down
+code: 500
+responseTime: 381
+lastUpdated: 2025-04-01T22:06:50.819Z
 startTime: 2025-02-02T09:42:54.725Z
 generator: Upptime <https://github.com/upptime/upptime>
