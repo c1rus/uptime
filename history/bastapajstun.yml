@@ -1,7 +1,7 @@
 url: https://www.bastapajstun.sk
-status: up
-code: 200
-responseTime: 1366
-lastUpdated: 2025-05-25T23:04:08.485Z
+status: down
+code: 503
+responseTime: 1207
+lastUpdated: 2025-05-26T08:29:54.545Z
 startTime: 2025-02-02T09:38:30.761Z
 generator: Upptime <https://github.com/upptime/upptime>
