@@ -1,7 +1,7 @@
 url: https://input.metriq.app/
-status: up
-code: 200
-responseTime: 1199
-lastUpdated: 2025-06-19T23:03:40.526Z
+status: down
+code: 503
+responseTime: 945
+lastUpdated: 2025-06-20T09:08:39.595Z
 startTime: 2025-02-02T10:02:10.066Z
 generator: Upptime <https://github.com/upptime/upptime>
