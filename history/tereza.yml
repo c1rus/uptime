@@ -1,7 +1,7 @@
 url: https://www.apartmanytereza.sk
-status: up
-code: 200
-responseTime: 1336
-lastUpdated: 2025-08-13T23:05:56.030Z
+status: down
+code: 500
+responseTime: 548
+lastUpdated: 2025-08-14T08:37:43.027Z
 startTime: 2025-02-02T09:43:15.981Z
 generator: Upptime <https://github.com/upptime/upptime>
