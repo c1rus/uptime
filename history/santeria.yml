@@ -1,7 +1,7 @@
 url: http://www.santeria.sk
-status: up
-code: 200
-responseTime: 806
-lastUpdated: 2025-08-13T23:05:42.504Z
+status: down
+code: 500
+responseTime: 574
+lastUpdated: 2025-08-14T08:37:29.331Z
 startTime: 2025-02-02T09:42:36.338Z
 generator: Upptime <https://github.com/upptime/upptime>
