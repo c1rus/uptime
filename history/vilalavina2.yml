@@ -1,7 +1,7 @@
 url: http://www.vilalavina.sk
-status: up
-code: 200
-responseTime: 1904
-lastUpdated: 2025-08-13T23:06:03.167Z
+status: down
+code: 500
+responseTime: 1061
+lastUpdated: 2025-08-14T08:37:50.877Z
 startTime: 2025-02-02T09:43:21.562Z
 generator: Upptime <https://github.com/upptime/upptime>
