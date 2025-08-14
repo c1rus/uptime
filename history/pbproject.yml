@@ -1,7 +1,7 @@
 url: https://www.pbproject.sk
-status: up
-code: 200
-responseTime: 1156
-lastUpdated: 2025-08-13T23:05:29.058Z
+status: down
+code: 500
+responseTime: 18133
+lastUpdated: 2025-08-14T08:36:53.056Z
 startTime: 2025-02-02T09:42:20.759Z
 generator: Upptime <https://github.com/upptime/upptime>
