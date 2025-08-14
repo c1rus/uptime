@@ -1,7 +1,7 @@
 url: http://www.amplia.sk/
-status: up
-code: 200
-responseTime: 1699
-lastUpdated: 2025-08-13T23:03:47.961Z
+status: down
+code: 500
+responseTime: 20207
+lastUpdated: 2025-08-14T08:27:01.098Z
 startTime: 2025-02-02T09:37:30.158Z
 generator: Upptime <https://github.com/upptime/upptime>
