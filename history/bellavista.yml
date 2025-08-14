@@ -1,7 +1,7 @@
 url: https://www.bellavista.sk
-status: up
-code: 200
-responseTime: 996
-lastUpdated: 2025-08-13T23:04:05.459Z
+status: down
+code: 500
+responseTime: 10011
+lastUpdated: 2025-08-14T08:28:31.850Z
 startTime: 2025-02-02T09:38:47.561Z
 generator: Upptime <https://github.com/upptime/upptime>
