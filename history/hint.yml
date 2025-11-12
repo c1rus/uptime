@@ -1,7 +1,7 @@
 url: https://hint.hollen.sk/
-status: up
-code: 200
-responseTime: 650
-lastUpdated: 2025-11-11T23:03:01.501Z
+status: down
+code: 503
+responseTime: 860
+lastUpdated: 2025-11-12T11:43:52.597Z
 startTime: 2025-02-02T10:02:07.452Z
 generator: Upptime <https://github.com/upptime/upptime>
