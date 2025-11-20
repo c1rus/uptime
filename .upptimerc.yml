@@ -18,11 +18,11 @@ sites:
     - name: view.metriq
       url: https://view.metriq.app/
     
-    - name: priklady.eu
-      url: https://www.priklady.eu/sk/Index.alej
-    
     - name: master.kabernet.sk
       url: https://master.kabernet.sk/
+    
+    - name: priklady.eu
+      url: https://www.priklady.eu/sk/Index.alej
     
     - name: 1cornhill
       url: http://www.iiplt.lu
@@ -32,6 +32,9 @@ sites:
     
     - name: 2pmd
       url: http://www.2pmd.sk
+    
+    - name: abfallservice
+      url: https://www.abfallserviceonline.at/
     
     - name: addcar-cee
       url: https://www.addcar-cee.sk
@@ -102,6 +105,9 @@ sites:
     - name: cdp2
       url: https://www.cdp.sk/
     
+    - name: celox
+      url: https://www.celox.sk/
+    
     - name: circularblog
       url: http://www.circularblog.at
     
@@ -119,6 +125,9 @@ sites:
     
     - name: dancepowerido
       url: http://www.dance-power-ido.eu/
+    
+    - name: designsklo
+      url: https://designsklo.sk
     
     - name: digizrucnosti
       url: https://www.digizrucnosti.sk
@@ -147,6 +156,9 @@ sites:
     - name: gefran
       url: https://www.gefran.sk
     
+    - name: haconference
+      url: https://www.haconference.sk
+    
     - name: hbusr
       url: https://www.hbu.sk
     
@@ -155,9 +167,6 @@ sites:
     
     - name: idlc
       url: https://www.idl.sk/
-    
-    - name: icho
-      url: http://www.icho.sk
     
     - name: itvkurze
       url: https://www.itvkurze.sk/
@@ -170,6 +179,9 @@ sites:
     
     - name: kolas
       url: https://www.kolas.sk
+    
+    - name: kolos
+      url: https://www.kolos.sk/
     
     - name: koucovaciaskola2
       url: https://www.koucovaciaskola.sk
@@ -210,17 +222,20 @@ sites:
     - name: mecomsutazgril
       url: https://www.mecomsutaz.sk/
     
+    - name: mojagarancia
+      url: https://www.mojagarancia.eu
+    
     - name: mujodpad
       url: https://mujodpad.kabernet.sk
     
     - name: myfccservices
       url: https://myfccservices.kabernet.sk
     
-    - name: nadaciams
-      url: https://www.nadaciamilanasimecku.sk/
+    - name: novinyd
+      url: https://noviny.dubravka.sk/
     
-    - name: natureland
-      url: http://www.natureland.sk
+    - name: odpadovykalendar
+      url: https://www.odpadovykalendar.sk
     
     - name: omnia
       url: http://www.omnia.sk
@@ -236,6 +251,9 @@ sites:
     
     - name: pefc
       url: http://www.pefc.sk/
+    
+    - name: penzionzora
+      url: https://penzion-zora.sk/
     
     - name: pomocky
       url: https://www.widex-eshop.sk
@@ -270,9 +288,6 @@ sites:
     - name: sizp
       url: https://www.sizp.sk
     
-    - name: slovakiatech
-      url: http://www.slovakiatech.sk
-    
     - name: starsforstars
       url: https://www.starsforstars.eu
     
@@ -281,9 +296,6 @@ sites:
     
     - name: teambaruzinov
       url: https://www.teambaruzinov.sk/
-    
-    - name: tekmar
-      url: https://www.tekmarbrands.com/
     
     - name: tereza
       url: https://www.apartmanytereza.sk
@@ -322,7 +334,7 @@ sites:
       url: https://zistersdorf.fcc-group.at/
     
     - name: zskuliskova
-      url: http://www.zskuliskova.sk/
+      url: https://www.zskuliskova.sk/
     
     - name: zsnevadzova
       url: https://www.zsnevadzova.sk
