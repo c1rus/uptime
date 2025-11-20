@@ -24,9 +24,6 @@ sites:
     - name: priklady.eu
       url: https://www.priklady.eu/sk/Index.alej
     
-    - name: 1cornhill
-      url: http://www.iiplt.lu
-    
     - name: 1sjs
       url: https://www.1sjs.sk
     
