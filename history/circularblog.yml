@@ -1,7 +1,7 @@
 url: http://www.circularblog.at
-status: up
-code: 200
-responseTime: 1605
-lastUpdated: 2025-12-15T23:04:22.789Z
+status: down
+code: 503
+responseTime: 937
+lastUpdated: 2025-12-16T09:35:56.575Z
 startTime: 2025-02-02T09:39:25.290Z
 generator: Upptime <https://github.com/upptime/upptime>
