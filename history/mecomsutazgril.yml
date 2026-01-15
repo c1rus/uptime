@@ -1,7 +1,7 @@
 url: https://www.mecomsutaz.sk/
-status: up
-code: 200
-responseTime: 1349
-lastUpdated: 2026-01-15T12:19:31.072Z
+status: down
+code: 503
+responseTime: 360
+lastUpdated: 2026-01-15T16:17:39.398Z
 startTime: 2025-02-02T09:41:21.872Z
 generator: Upptime <https://github.com/upptime/upptime>
