@@ -35,8 +35,7 @@
       "2025-02-20": 13,
       "2025-02-19": 8,
       "2025-02-17": 11,
-      "2025-02-16": 122,
-      "2025-02-14": 9
+      "2025-02-16": 122
     }
   },
   {
@@ -228,7 +227,7 @@
     "uptime": "85.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.26%",
+    "uptimeMonth": "55.34%",
     "uptimeYear": "85.44%",
     "time": 2143,
     "timeDay": 2023,
@@ -679,7 +678,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.amplia.sk.ico",
     "slug": "amplia",
     "status": "up",
-    "uptime": "72.43%",
+    "uptime": "72.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -3067,7 +3066,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.omnia.sk.ico",
     "slug": "omnia",
     "status": "up",
-    "uptime": "37.45%",
+    "uptime": "37.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -5775,8 +5774,7 @@
     "timeYear": 783,
     "dailyMinutesDown": {
       "2025-12-02": 13,
-      "2025-03-12": 7,
-      "2025-02-14": 7
+      "2025-03-12": 7
     }
   },
   {
@@ -5890,7 +5888,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.thepop.sk.ico",
     "slug": "thepop",
     "status": "up",
-    "uptime": "37.45%",
+    "uptime": "37.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -6170,7 +6168,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zdraviekrasasloboda.sk.ico",
     "slug": "valcer",
     "status": "up",
-    "uptime": "37.45%",
+    "uptime": "37.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -6586,7 +6584,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vinosadski-vinari.sk.ico",
     "slug": "vinosadski-vinari",
     "status": "up",
-    "uptime": "37.45%",
+    "uptime": "37.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
