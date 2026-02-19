@@ -22,7 +22,7 @@ sites:
       url: https://master.kabernet.sk/
     
     - name: priklady.eu
-      url: https://www.priklady.eu/sk/Index.alej
+      url: https://www.priklady.eu/
     
     - name: 1sjs
       url: https://www.1sjs.sk
@@ -233,9 +233,6 @@ sites:
     
     - name: odpadovykalendar
       url: https://www.odpadovykalendar.sk
-    
-    - name: omnia
-      url: http://www.omnia.sk
     
     - name: optikafontana
       url: https://www.optikafontana.sk/
