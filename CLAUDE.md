@@ -91,14 +91,95 @@ Pushing this change to `master` triggers the `setup.yml` workflow which runs the
 
 Remove the entry from `sites:` in `.upptimerc.yml`. Set `skipDeleteIssues: true` (already set) to preserve any open GitHub Issues for the site.
 
-### Advanced Configuration Options
+### Advanced Per-Site Options
 
-See the [Upptime configuration docs](https://upptime.js.org/docs/configuration) for:
-- Notifications (Slack, email, webhooks)
-- Custom HTTP headers or body checks
-- Issue assignment
-- Accepted status codes
-- Maximum response time thresholds
+```yaml
+sites:
+  - name: my-site
+    url: https://my-site.example.com
+    check: http              # "http" (default), "tcp-ping", "ws", "ssl"
+    method: GET              # HTTP method (default: GET)
+    port: 443                # custom port for tcp-ping checks
+    expectedStatusCodes:     # accepted HTTP codes (default: [200])
+      - 200
+      - 201
+    maxResponseTime: 5000    # ms threshold before flagging as degraded
+    maxRedirects: 10         # max redirects to follow
+    headers:                 # custom request headers
+      Authorization: "Bearer TOKEN"
+    body: '{"key":"value"}' # request body (for POST etc.)
+    ipv6: true               # test over IPv6
+    type: globalping         # use distributed Globalping network (see below)
+    location: "Western Europe" # Globalping probe location filter
+```
+
+### New Features in Recent Versions (v1.39.0 – v1.41.0)
+
+**v1.41.0** (September 2025) — *current version*
+- **Globalping support** (PR #262): Monitor from a globally distributed probe network instead of the GitHub Actions runner. Add `type: globalping` (and optionally `location:`) per site.
+- **TCP-ping improved**: Better error handling and debug output to reduce false positives.
+
+**v1.40.0 / v1.40.1** (April 2025)
+- **SSL certificate expiry checker** (Issue #261): Automatically checks SSL cert expiry on every uptime run. If a cert expires within **7 days**, the check fails (site marked "down"). **No `.upptimerc.yml` changes needed** — built in automatically.
+
+**v1.39.0** (February 2025)
+- **Gotify notifications** (PR #256): Push alerts to a self-hosted Gotify server. Configured via GitHub Secrets (see below).
+- **Multiple Telegram channels** (PR #249): Send alerts to more than one Telegram channel simultaneously. Configured via GitHub Secrets.
+
+**v1.38.0** (August 2024)
+- **Custom webhook notifications** (PR #254): POST outage/recovery events to any HTTP endpoint. Configured via GitHub Secrets.
+- **GitHub Pages action** upgraded to v4.
+
+### Notification Configuration
+
+> **Important**: Notifications are configured via **GitHub repository Secrets** (Settings → Secrets and Variables → Actions), **not** in `.upptimerc.yml`. Currently **no notifications are configured** in this repo.
+
+#### Telegram (single channel)
+| Secret | Value |
+|--------|-------|
+| `NOTIFICATION_TELEGRAM` | `true` |
+| `NOTIFICATION_TELEGRAM_BOT_KEY` | Bot token from @BotFather |
+| `NOTIFICATION_TELEGRAM_CHAT_ID` | Target chat/channel ID |
+
+#### Telegram (multiple channels — since v1.39.0)
+See [PR #249](https://github.com/upptime/uptime-monitor/pull/249/files) for the exact numbered secret names (e.g. `NOTIFICATION_TELEGRAM_BOT_KEY_1`, `NOTIFICATION_TELEGRAM_CHAT_ID_1`, etc.).
+
+#### Custom Webhook (since v1.38.0)
+| Secret | Value |
+|--------|-------|
+| `NOTIFICATION_CUSTOM_WEBHOOK` | `true` |
+| `NOTIFICATION_CUSTOM_WEBHOOK_URL` | Your webhook endpoint URL |
+
+#### Gotify (since v1.39.0)
+| Secret | Value |
+|--------|-------|
+| `NOTIFICATION_GOTIFY` | `true` |
+| `NOTIFICATION_GOTIFY_URL` | Base URL of your Gotify server (no trailing `/`) |
+| `NOTIFICATION_GOTIFY_TOKEN` | Gotify application token |
+| `NOTIFICATION_GOTIFY_TITLE` | (optional) Notification title, defaults to `Upptime` |
+| `NOTIFICATION_GOTIFY_PRIORITY` | (optional) Message priority, defaults to `5` |
+
+### Globalping Monitoring Example
+
+To monitor from distributed global network probes (`.upptimerc.yml`):
+
+```yaml
+sites:
+  - name: hint
+    url: https://hint.hollen.sk/
+    type: globalping         # use globalping probes instead of GitHub runner
+    location: germany        # continent, country, city, ASN, cloud region, etc.
+```
+
+Optionally add a GitHub Secret `GLOBALPING_TOKEN` (from [globalping.io](https://globalping.io) dashboard → Tokens) to raise the rate limit from 250 to 500 tests/hour. No `.upptimerc.yml` change needed for the token.
+
+**Note**: Globalping supports HTTP and TCP-ping only. POST requests are not supported. Unauthenticated rate limit is 250 tests/hour per IP (shared on cloud runners).
+
+### See Also
+
+- [Upptime configuration docs](https://upptime.js.org/docs/configuration) — full reference
+- [uptime-monitor releases](https://github.com/upptime/uptime-monitor/releases) — full changelog
+- [Globalping + Upptime blog post](https://blog.globalping.io/global-uptime-monitoring-upptime-globalping/)
 
 ---
 
@@ -217,7 +298,10 @@ Go to GitHub Actions → "Setup CI" → "Run workflow", or push any change to `.
 Read `history/summary.json` — it has the full current state of all 111 monitored endpoints.
 
 ### Update Upptime version
-Change the version tag in `.upptimerc.yml` if supported, or wait for the weekly `update-template` run to auto-update workflow files.
+The `update-template.yml` workflow runs daily and uses `upptime/uptime-monitor@master` — workflow files are auto-regenerated from the latest template automatically. No manual merge from upstream is needed. The pinned version in workflows (`@v1.41.0`) is updated by this process.
+
+### Check if Upptime is up-to-date
+All workflow files contain `# 🔼 Upptime @v1.41.0` in their headers — compare this tag to the [latest release](https://github.com/upptime/uptime-monitor/releases) to verify currency.
 
 ---
 
