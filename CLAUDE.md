@@ -91,14 +91,105 @@ Pushing this change to `master` triggers the `setup.yml` workflow which runs the
 
 Remove the entry from `sites:` in `.upptimerc.yml`. Set `skipDeleteIssues: true` (already set) to preserve any open GitHub Issues for the site.
 
-### Advanced Configuration Options
+### Advanced Per-Site Options
 
-See the [Upptime configuration docs](https://upptime.js.org/docs/configuration) for:
-- Notifications (Slack, email, webhooks)
-- Custom HTTP headers or body checks
-- Issue assignment
-- Accepted status codes
-- Maximum response time thresholds
+```yaml
+sites:
+  - name: my-site
+    url: https://my-site.example.com
+    check: http              # "http" (default), "tcp-ping", "ws", "ssl"
+    method: GET              # HTTP method (default: GET)
+    port: 443                # custom port for tcp-ping checks
+    expectedStatusCodes:     # accepted HTTP codes (default: [200])
+      - 200
+      - 201
+    maxResponseTime: 5000    # ms threshold before flagging as degraded
+    maxRedirects: 10         # max redirects to follow
+    headers:                 # custom request headers
+      Authorization: "Bearer TOKEN"
+    body: '{"key":"value"}' # request body (for POST etc.)
+    ipv6: true               # test over IPv6
+    type: globalping         # use distributed Globalping network (see below)
+    location: "Western Europe" # Globalping probe location filter
+```
+
+### New Features in Recent Versions (v1.37.0 – v1.41.0)
+
+**v1.41.0** (September 2025) — *current version*
+- **Globalping support**: Monitor sites from distributed global probes instead of GitHub runners. Add `type: globalping` (and optionally `location:`) to any site entry.
+- **TCP-ping improved**: Better error handling and debug output to reduce false positives.
+
+**v1.40.0** (April 2025)
+- **SSL certificate checker**: Add `check: ssl` to a site entry. The check fails when the certificate expires within 7 days, enabling proactive cert renewal alerts.
+
+**v1.39.0** (February 2025)
+- **Gotify notifications**: Push alerts to a self-hosted Gotify server.
+
+**v1.38.0** (August 2024)
+- **Custom webhook notifications**: Send outage/recovery events to any HTTP endpoint.
+- **GitHub Pages action upgraded** to v4.
+
+**v1.37.0** (June 2024)
+- **Multiple Telegram channels**: List multiple Telegram entries in `notifications` to fan-out alerts.
+
+### Notification Configuration
+
+Add a `notifications:` section to `.upptimerc.yml` to enable alerts. Currently **no notifications are configured** in this repo.
+
+```yaml
+notifications:
+  # Slack
+  - type: slack
+    channel: C123ABC456
+    oauth_token: $SLACK_OAUTH_TOKEN
+
+  # Telegram (multiple channels supported since v1.37.0)
+  - type: telegram
+    bot_key: $TELEGRAM_BOT_KEY
+    chat_id: $CHAT_ID_1
+  - type: telegram
+    bot_key: $TELEGRAM_BOT_KEY
+    chat_id: $CHAT_ID_2
+
+  # Custom webhook (since v1.38.0)
+  - type: webhook
+    url: https://my-webhook.example.com/upptime
+
+  # Gotify (since v1.39.0)
+  - type: gotify
+    url: https://gotify.example.com
+    token: $GOTIFY_TOKEN
+```
+
+Secrets referenced with `$VAR` syntax are read from GitHub repository secrets.
+
+### SSL Certificate Monitoring Example
+
+To monitor SSL expiry for a site (alerts if cert expires within 7 days):
+
+```yaml
+sites:
+  - name: hint-ssl
+    url: https://hint.hollen.sk/
+    check: ssl
+```
+
+### Globalping Monitoring Example
+
+To monitor from distributed global network probes:
+
+```yaml
+sites:
+  - name: hint-global
+    url: https://hint.hollen.sk/
+    type: globalping
+    location: "Western Europe"
+```
+
+### See Also
+
+- [Upptime configuration docs](https://upptime.js.org/docs/configuration) — full reference
+- [uptime-monitor releases](https://github.com/upptime/uptime-monitor/releases) — full changelog
 
 ---
 
@@ -217,7 +308,10 @@ Go to GitHub Actions → "Setup CI" → "Run workflow", or push any change to `.
 Read `history/summary.json` — it has the full current state of all 111 monitored endpoints.
 
 ### Update Upptime version
-Change the version tag in `.upptimerc.yml` if supported, or wait for the weekly `update-template` run to auto-update workflow files.
+The `update-template.yml` workflow runs daily and uses `upptime/uptime-monitor@master` — workflow files are auto-regenerated from the latest template automatically. No manual merge from upstream is needed. The pinned version in workflows (`@v1.41.0`) is updated by this process.
+
+### Check if Upptime is up-to-date
+All workflow files contain `# 🔼 Upptime @v1.41.0` in their headers — compare this tag to the [latest release](https://github.com/upptime/uptime-monitor/releases) to verify currency.
 
 ---
 
