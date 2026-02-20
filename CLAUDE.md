@@ -113,83 +113,73 @@ sites:
     location: "Western Europe" # Globalping probe location filter
 ```
 
-### New Features in Recent Versions (v1.37.0 – v1.41.0)
+### New Features in Recent Versions (v1.39.0 – v1.41.0)
 
 **v1.41.0** (September 2025) — *current version*
-- **Globalping support**: Monitor sites from distributed global probes instead of GitHub runners. Add `type: globalping` (and optionally `location:`) to any site entry.
+- **Globalping support** (PR #262): Monitor from a globally distributed probe network instead of the GitHub Actions runner. Add `type: globalping` (and optionally `location:`) per site.
 - **TCP-ping improved**: Better error handling and debug output to reduce false positives.
 
-**v1.40.0** (April 2025)
-- **SSL certificate checker**: Add `check: ssl` to a site entry. The check fails when the certificate expires within 7 days, enabling proactive cert renewal alerts.
+**v1.40.0 / v1.40.1** (April 2025)
+- **SSL certificate expiry checker** (Issue #261): Automatically checks SSL cert expiry on every uptime run. If a cert expires within **7 days**, the check fails (site marked "down"). **No `.upptimerc.yml` changes needed** — built in automatically.
 
 **v1.39.0** (February 2025)
-- **Gotify notifications**: Push alerts to a self-hosted Gotify server.
+- **Gotify notifications** (PR #256): Push alerts to a self-hosted Gotify server. Configured via GitHub Secrets (see below).
+- **Multiple Telegram channels** (PR #249): Send alerts to more than one Telegram channel simultaneously. Configured via GitHub Secrets.
 
 **v1.38.0** (August 2024)
-- **Custom webhook notifications**: Send outage/recovery events to any HTTP endpoint.
-- **GitHub Pages action upgraded** to v4.
-
-**v1.37.0** (June 2024)
-- **Multiple Telegram channels**: List multiple Telegram entries in `notifications` to fan-out alerts.
+- **Custom webhook notifications** (PR #254): POST outage/recovery events to any HTTP endpoint. Configured via GitHub Secrets.
+- **GitHub Pages action** upgraded to v4.
 
 ### Notification Configuration
 
-Add a `notifications:` section to `.upptimerc.yml` to enable alerts. Currently **no notifications are configured** in this repo.
+> **Important**: Notifications are configured via **GitHub repository Secrets** (Settings → Secrets and Variables → Actions), **not** in `.upptimerc.yml`. Currently **no notifications are configured** in this repo.
 
-```yaml
-notifications:
-  # Slack
-  - type: slack
-    channel: C123ABC456
-    oauth_token: $SLACK_OAUTH_TOKEN
+#### Telegram (single channel)
+| Secret | Value |
+|--------|-------|
+| `NOTIFICATION_TELEGRAM` | `true` |
+| `NOTIFICATION_TELEGRAM_BOT_KEY` | Bot token from @BotFather |
+| `NOTIFICATION_TELEGRAM_CHAT_ID` | Target chat/channel ID |
 
-  # Telegram (multiple channels supported since v1.37.0)
-  - type: telegram
-    bot_key: $TELEGRAM_BOT_KEY
-    chat_id: $CHAT_ID_1
-  - type: telegram
-    bot_key: $TELEGRAM_BOT_KEY
-    chat_id: $CHAT_ID_2
+#### Telegram (multiple channels — since v1.39.0)
+See [PR #249](https://github.com/upptime/uptime-monitor/pull/249/files) for the exact numbered secret names (e.g. `NOTIFICATION_TELEGRAM_BOT_KEY_1`, `NOTIFICATION_TELEGRAM_CHAT_ID_1`, etc.).
 
-  # Custom webhook (since v1.38.0)
-  - type: webhook
-    url: https://my-webhook.example.com/upptime
+#### Custom Webhook (since v1.38.0)
+| Secret | Value |
+|--------|-------|
+| `NOTIFICATION_CUSTOM_WEBHOOK` | `true` |
+| `NOTIFICATION_CUSTOM_WEBHOOK_URL` | Your webhook endpoint URL |
 
-  # Gotify (since v1.39.0)
-  - type: gotify
-    url: https://gotify.example.com
-    token: $GOTIFY_TOKEN
-```
-
-Secrets referenced with `$VAR` syntax are read from GitHub repository secrets.
-
-### SSL Certificate Monitoring Example
-
-To monitor SSL expiry for a site (alerts if cert expires within 7 days):
-
-```yaml
-sites:
-  - name: hint-ssl
-    url: https://hint.hollen.sk/
-    check: ssl
-```
+#### Gotify (since v1.39.0)
+| Secret | Value |
+|--------|-------|
+| `NOTIFICATION_GOTIFY` | `true` |
+| `NOTIFICATION_GOTIFY_URL` | Base URL of your Gotify server (no trailing `/`) |
+| `NOTIFICATION_GOTIFY_TOKEN` | Gotify application token |
+| `NOTIFICATION_GOTIFY_TITLE` | (optional) Notification title, defaults to `Upptime` |
+| `NOTIFICATION_GOTIFY_PRIORITY` | (optional) Message priority, defaults to `5` |
 
 ### Globalping Monitoring Example
 
-To monitor from distributed global network probes:
+To monitor from distributed global network probes (`.upptimerc.yml`):
 
 ```yaml
 sites:
-  - name: hint-global
+  - name: hint
     url: https://hint.hollen.sk/
-    type: globalping
-    location: "Western Europe"
+    type: globalping         # use globalping probes instead of GitHub runner
+    location: germany        # continent, country, city, ASN, cloud region, etc.
 ```
+
+Optionally add a GitHub Secret `GLOBALPING_TOKEN` (from [globalping.io](https://globalping.io) dashboard → Tokens) to raise the rate limit from 250 to 500 tests/hour. No `.upptimerc.yml` change needed for the token.
+
+**Note**: Globalping supports HTTP and TCP-ping only. POST requests are not supported. Unauthenticated rate limit is 250 tests/hour per IP (shared on cloud runners).
 
 ### See Also
 
 - [Upptime configuration docs](https://upptime.js.org/docs/configuration) — full reference
 - [uptime-monitor releases](https://github.com/upptime/uptime-monitor/releases) — full changelog
+- [Globalping + Upptime blog post](https://blog.globalping.io/global-uptime-monitoring-upptime-globalping/)
 
 ---
 
