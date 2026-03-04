@@ -1,7 +1,7 @@
 url: http://www.2pmd.sk
-status: up
-code: 200
-responseTime: 1221
-lastUpdated: 2026-03-03T23:05:14.200Z
+status: down
+code: 503
+responseTime: 1376
+lastUpdated: 2026-03-04T12:22:20.053Z
 startTime: 2025-02-02T09:37:10.796Z
 generator: Upptime <https://github.com/upptime/upptime>
