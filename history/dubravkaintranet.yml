@@ -1,7 +1,7 @@
 url: http://intranet.dubravka.sk
-status: down
-code: 503
-responseTime: 397
-lastUpdated: 2026-04-28T23:20:02.854Z
+status: up
+code: 200
+responseTime: 1221
+lastUpdated: 2026-04-29T13:27:05.025Z
 startTime: 2025-02-02T09:40:31.018Z
 generator: Upptime <https://github.com/upptime/upptime>
