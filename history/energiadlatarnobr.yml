@@ -1,7 +1,7 @@
 url: http://www.energiadlatarnobrzega.pl/
-status: up
-code: 200
-responseTime: 1596
-lastUpdated: 2026-07-21T23:20:10.469Z
+status: down
+code: 503
+responseTime: 511
+lastUpdated: 2026-07-22T09:46:19.382Z
 startTime: 2025-02-02T09:40:32.538Z
 generator: Upptime <https://github.com/upptime/upptime>
