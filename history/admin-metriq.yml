@@ -1,7 +1,7 @@
 url: https://admin.metriq.app/
-status: down
-code: 503
-responseTime: 2568
-lastUpdated: 2026-08-13T09:22:19.051Z
+status: up
+code: 200
+responseTime: 1687
+lastUpdated: 2026-08-13T09:46:15.681Z
 startTime: 2025-02-02T10:02:08.790Z
 generator: Upptime <https://github.com/upptime/upptime>
