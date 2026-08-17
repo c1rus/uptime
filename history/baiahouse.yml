@@ -1,7 +1,7 @@
 url: https://www.baia.sk
-status: up
-code: 200
-responseTime: 855
-lastUpdated: 2026-08-16T23:08:12.279Z
+status: down
+code: 503
+responseTime: 646
+lastUpdated: 2026-08-17T11:12:12.861Z
 startTime: 2025-02-02T09:38:11.871Z
 generator: Upptime <https://github.com/upptime/upptime>
