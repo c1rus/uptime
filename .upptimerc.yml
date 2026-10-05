@@ -329,10 +329,7 @@ sites:
     
     - name: zskuliskova
       url: https://www.zskuliskova.sk/
-    
-    - name: zsnevadzova
-      url: https://www.zsnevadzova.sk
-    
+
     - name: zuri
       url: https://www.zuriarchitecture.com/
     
