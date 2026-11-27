@@ -1,7 +1,7 @@
 url: https://www.livinn.sk
-status: up
-code: 200
-responseTime: 1152
-lastUpdated: 2026-11-26T23:07:03.597Z
+status: down
+code: 503
+responseTime: 579
+lastUpdated: 2026-11-27T12:22:58.984Z
 startTime: 2025-02-02T09:41:11.582Z
 generator: Upptime <https://github.com/upptime/upptime>
