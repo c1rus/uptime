@@ -1,7 +1,7 @@
 url: https://www.kolas.sk
-status: up
-code: 200
-responseTime: 1326
-lastUpdated: 2026-11-26T23:06:34.604Z
+status: down
+code: 503
+responseTime: 856
+lastUpdated: 2026-11-27T12:21:13.572Z
 startTime: 2025-02-02T09:40:54.116Z
 generator: Upptime <https://github.com/upptime/upptime>
